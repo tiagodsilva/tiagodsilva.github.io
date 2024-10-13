@@ -16,7 +16,6 @@ jobs:
     steps:
       - name: Echo Hello World
         run: echo "Hello, World!"
-
 ########################################################################
 # DEFINE YOUR INPUTS AND TRIGGERS IN THE FOLLOWING
 ########################################################################
