@@ -14,4 +14,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year applied mathematics MSc student at the [School of Applied Mathematics](https://emap.fgv.br/en) working on (probabilistic) machine learning. I am broadly interested in statistical learning theory, (approximate) Bayesian inference, and sampling. Most of my recent work has been devoted to Generative Flow Networks. 
+I am a first-year applied mathematics MSc student at the [School of Applied Mathematics](https://emap.fgv.br/en) working on (probabilistic) machine learning. I am broadly interested in (approximate) Bayesian inference, sampling, and statistical learning theory. Most of my recent work has been devoted to Generative Flow Networks. 
