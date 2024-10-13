@@ -1,5 +1,7 @@
 name: Check for broken links
 
+on: [push]
+
 jobs:
   say-hello:
     runs-on: ubuntu-latest
