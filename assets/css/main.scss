@@ -23,3 +23,22 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Hacky to remove underline from custom text 
+
+a[href="assets/pdf/cv.pdf"] {
+  text-decoration: none; /* Remove underline from link */
+}
+
+a[href="assets/pdf/cv.pdf"]:hover {
+  text-decoration: none; /* No underline on hover */
+}
+
+a[href="assets/pdf/cv.pdf"] span {
+  text-decoration: none !important; /* Remove underline by default */
+}
+
+a[href="assets/pdf/cv.pdf"]:hover span {
+  text-decoration: none !important; /* No underline on hover */
+  color: purple; /* Make the text bold on hover (filled effect) */
+}
