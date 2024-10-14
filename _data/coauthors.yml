@@ -1,27 +1,26 @@
 "mesquita":
-  - firstname: ["D.", "Diego"] 
+  - firstname: ["D.", "Diego"]
     url: https://weakly-informative.github.io/
 
-"souza": 
+"souza":
   - firstname: ["A.", "Amauri"]
     url: https://amauriholanda.org/
 
-"carvalho": 
-  - firstname: ["L.", "Luiz", "Luiz Max", "L. M."] 
+"carvalho":
+  - firstname: ["L.", "Luiz", "Luiz Max", "L. M."]
     url: https://github.com/maxbiostat
 
-"kaski": 
-  - firstname: ["S.", "Sami"] 
+"kaski":
+  - firstname: ["S.", "Sami"]
     url: https://kaski-lab.com/
 
 "silva":
-  - firstname: ["E.", "Eliezer"] 
+  - firstname: ["E.", "Eliezer"]
     url: https://sereliezer.github.io/
 
-"poco": 
-  - firstname: ["J.", "Jorge"] 
+"poco":
+  - firstname: ["J.", "Jorge"]
     url: https://visualdslab.com/~jpocom/
-
-# "souza": 
-#   - firstname: ["D.", "Daniel"] 
+# "souza":
+#   - firstname: ["D.", "Daniel"]
 #     url: https://spectral.space/

@@ -18,4 +18,4 @@ I am a first-year applied mathematics MSc student at the [School of Applied Math
 
 In the fall of 2024, I was a visiting researcher in the Probabilistic Machine Learning (PML) group at [Aalto University](https://research.cs.aalto.fi/pml/) under the supervision of [Prof. Vikas Garg](https://www.mit.edu/~vgarg/) and [Prof. Sami Kaski](https://kaski-lab.com/). There, I worked on the (efficient) assessment and (PAC-Bayesian) statistical guarantees for GFlowNets.
 
-I am **currently seeking** PhD positions starting in either spring or fall of 2025.   
+I am **currently seeking** PhD positions starting in either spring or fall of 2025.
