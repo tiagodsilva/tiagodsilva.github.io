@@ -85,7 +85,7 @@ Research assistant supervised by Prof. Jorge Poco. I assisted the development of
 
 *First place*, School of Applied Mathematics entrance exam. #h(1fr) 2020
 
-I was presented with #underline[19 prizes in scientific competitions] during high school, including:     
+I was awarded #underline[19 prizes in scientific competitions] during high school, including:     
 
 *William Glenn Whitley Prize* for achieving the highest score on the State Mathematical Olympiad. #h(1fr) 2019   
 
