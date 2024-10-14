@@ -34,7 +34,7 @@ School of Applied Mathematics, Brazil \
 
 *BSc in Data Science* #h(1fr) 2020/03 -- 2023/12 \
 School of Applied Mathematics, Brazil \ 
-- GPA: 9.9/10.0 (lowest passing grade of 6.0). 1st in class and 1st in the entrance exam. Receive a fully-funded scholarship. 
+- GPA: 9.9/10.0 (lowest passing grade of 6.0). 1st in class and 1st in the entrance exam. Received a fully-funded scholarship. 
 // - Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. 
 
 == Selected Publications  
