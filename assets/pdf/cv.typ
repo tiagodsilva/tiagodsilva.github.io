@@ -34,7 +34,7 @@ School of Applied Mathematics, Brazil \
 
 *BSc in Data Science* #h(1fr) 2020/03 -- 2023/12 \
 School of Applied Mathematics, Brazil \ 
-- GPA: 9.9/10.0 (lowest passing grade of 6.0). 1st in class and 1st in the entrance exam. Receive a fully-funded scholarship. \
+- GPA: 9.9/10.0 (lowest passing grade of 6.0). 1st in class and 1st in the entrance exam. Receive a fully-funded scholarship. 
 // - Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. 
 
 == Selected Publications  
@@ -55,7 +55,7 @@ School of Applied Mathematics, Brazil \
 == Research Projects 
 #chiline() 
 
-1. *When do (not) GFlowNets learn the right distribution?* 
+1. *When do GFlowNets (not) learn the right distribution?* 
 
 GFlowNets have demonstrated exceptional performance in, e.g., NLP and combinatorial optimization. However, an understanding of the limitations of GFlowNets and a sound procedure for assessing the closeness of a trained model to its learning objective are notably absent from the literature. In this project, we aim to address questions such as: given a parametric model, which distributions can a GFlowNet learn? How to measure the closeness of the sampling distribution to the target?     
 
