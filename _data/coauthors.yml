@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"mesquita":
+  - firstname: ["D.", "Diego"] 
+    url: https://weakly-informative.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"souza": 
+  - firstname: ["A.", "Amauri"]
+    url: https://amauriholanda.org/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"carvalho": 
+  - firstname: ["L.", "Luiz", "Luiz Max", "L. M."] 
+    url: https://github.com/maxbiostat
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kaski": 
+  - firstname: ["S.", "Sami"] 
+    url: https://kaski-lab.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"silva":
+  - firstname: ["E.", "Eliezer"] 
+    url: https://sereliezer.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"poco": 
+  - firstname: ["J.", "Jorge"] 
+    url: https://visualdslab.com/~jpocom/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+# "souza": 
+#   - firstname: ["D.", "Daniel"] 
+#     url: https://spectral.space/
