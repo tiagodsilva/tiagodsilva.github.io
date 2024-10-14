@@ -1,1 +1,1 @@
-To compile the typst script, you may need to download the fonts from [fontawesome.com/download](https://fontawesome.com/download). Then, move the `otf` files to `/usr/share/local/fonts` and update the font cache with `sudo fc-cache -fv`. 
+To compile the typst script, you may need to download the fonts from [fontawesome.com/download](https://fontawesome.com/download). Then, move the `otf` files to `/usr/share/local/fonts` and update the font cache with `sudo fc-cache -fv`.
