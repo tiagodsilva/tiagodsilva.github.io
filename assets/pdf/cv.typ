@@ -72,7 +72,7 @@ Working with probabilistic ML. My recent efforts were mostly directed towards le
 
 #[*Aalto University*], Finland #h(1fr) 2024/07 -- 2024/10 
 
-I was a visiting scholar on the Probabilistic Machine Learning group under the supervision of Prof. Vikas Garg and Prof. Sami Kaski. I worked on developing (non-vacuous) statistical guarantees for GFlowNets and geometric deep learning. 
+I was a visiting scholar on the Probabilistic Machine Learning group under the supervision of Prof. Vikas Garg and Prof. Sami Kaski. I worked on developing (non-vacuous) statistical guarantees for GFlowNets and on geometric deep learning. 
 
 #[*Visual Data Science Lab*], Brazil #h(1fr) 2020/08 -- 2023/01  
 
