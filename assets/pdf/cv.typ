@@ -124,6 +124,8 @@ Computer languages: Proficient with #underline[Python] and #underline[SQL]. Comp
 
 Scientific computing frameworks: PyTorch, PyTorch Geometric, GPyTorch, NumPy, SciPy.
 
+Technologies: Git, Linux. 
+
 Data visualization: Matplotlib, Altair, Vega-lite, D3. 
 
 Computer vision libraries: OpenCV, YOLOv5, SAM. 
