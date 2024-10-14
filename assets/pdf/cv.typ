@@ -102,7 +102,7 @@ I was awarded with #underline[19 prizes in scientific competitions] during high 
 == Employment 
 #chiline() 
 
-*Rei do Pitaco* #h(1fr) 2023/01 -- 2023/07 
+*Rei do Pitaco* (largest fantasy sports company in Brazil) #h(1fr) 2023/01 -- 2023/07 
   - Data Science intern. 
     - Designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking).
     - Deployed and upheld the created models within applications serving thousands of concurrent users. 
