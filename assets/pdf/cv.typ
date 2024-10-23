@@ -10,7 +10,7 @@
 
 // Feel free to change the margin below to best fit your own CV
 #set page(
-  margin: (x: 0.9cm, y: 1.3cm),
+  margin: (x: 0.9cm, y: 0.8cm),
 )
 
 // For more customizable options, please refer to official reference: https://typst.app/docs/reference/
@@ -34,7 +34,7 @@ School of Applied Mathematics, Brazil \
 
 *BSc in Data Science* #h(1fr) 2020/03 -- 2023/12 \
 School of Applied Mathematics, Brazil \ 
-- GPA: 9.9/10.0. 1st in class and 1st in the entrance exam. Received a fully-funded scholarship. 
+- GPA: 9.9/10.0#footnote[Lowest-passing grade of 6.0.]. 1st in class and 1st in the entrance exam. Received a fully-funded scholarship. 
 // - Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. 
 
 == Selected Publications  
