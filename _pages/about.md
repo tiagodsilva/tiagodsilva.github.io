@@ -18,4 +18,4 @@ I am a PhD candidate at the [School of Applied Mathematics](https://emap.fgv.br/
 
 In the fall of 2024, I was a visiting researcher in the Probabilistic Machine Learning (PML) group at [Aalto University](https://research.cs.aalto.fi/pml/) under the supervision of [Prof. Vikas Garg](https://www.mit.edu/~vgarg/) and [Prof. Sami Kaski](https://kaski-lab.com/). There, I worked on the (efficient) assessment of and (PAC-Bayesian) statistical guarantees for GFlowNets.
 
-I will defend my thesis on December 2024. I am **currently seeking** post-doc positions starting in  2025.
+I will defend my thesis on December 2024. I am **currently seeking** post-doc positions starting in 2025.
