@@ -27,10 +27,11 @@ tdsh97\@gmail.com |
 == Education
 #chiline()
 
-#[*MSc in Applied Mathematics*] #h(1fr) 2024/03 -- 2025/03 \
+#[*PhD in Applied Mathematics*] #h(1fr) 2024/03 -- 2024/12 \
 School of Applied Mathematics, Brazil \
-- Research focused on probabilistic methods for Machine Learning. Received a fully-funded scholarship. 
+- Thesis title: Streaming, Distributed, and Asynchronous Amortized Inference.   
 - Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. 
+
 
 *BSc in Data Science* #h(1fr) 2020/03 -- 2023/12 \
 School of Applied Mathematics, Brazil \ 
