@@ -53,16 +53,28 @@ School of Applied Mathematics, Brazil \
   - #underline([da Silva, T.]), Souza, A., Carvalho, L., Kaski, S., and Mesquita, D. 
   - TL;DR: We propose a divide-and-conquer approach to train a log-pool of GFlowNets in an embarrassingly parallel fashion. Results show a significant speed up in learning when the unnormalized target is expensive to evaluate.     
 
-== Research Projects 
++ *Exploring scientific literature by textual and image content using DRIFT* #h(1fr) Computer \& Graphics 2022 
+  - Pocco, X., #underline([da Silva, T.]), Poco, J., Nonato, L. G., Gomez-Nieto, E. 
+  - TL;DR: We developed a text- and image-driven visualization-based search engine for scientific literature.  
+
+== Preprints \& Workshops 
 #chiline() 
 
-1. *When do GFlowNets (not) learn the right distribution?* 
++ *Analyzing GFlowNets: Stability, Expressiveness, and Assessment* #h(1fr) SPIGM \@ ICML 2024  
+  - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Carvalho, L., Kaski, S., Garg, V., Mesquita, D.
+  - TL;DR: We demonstrate that there are problems that a GNN-based GFlowNet cannot solve. By showing that conventional metrics fail at detecting this limitation, we also present a novel and sound metric for assessing GFlowNets.    
 
-GFlowNets have demonstrated exceptional performance in, e.g., NLP and combinatorial optimization. However, an understanding of the limitations of GFlowNets and a sound procedure for assessing the closeness of a trained model to its learning objective are notably absent from the literature. In this project, we aim to address questions such as: given a parametric model, which distributions can a GFlowNet learn? How to measure the closeness of the sampling distribution to the target?     
++ *Human-aided Causal Discovery of Ancestral Graphs* #h(1fr) LatinX \@ NeurIPS 2024 
+  - #underline([da Silva, T.]), Silva, E., Góis, A., Heider, D., Kaski, S., Mesquita, D., Ribeiro, A. 
+  - TL;DR: We devise a Bayesian human-in-the-loop algorithm for causal discovery under latent confounding. 
 
-2. *Do GFlowNets generalize?* 
+// 1. *When do GFlowNets (not) learn the right distribution?* 
 
-Generalization is at the core of GFlowNet learning: during training, only a portion of the state space is explored and can be used for risk minimization. In this context, we ask: can we obtain (the first) non-vacuous statistical certificates for GFlowNets? Also, which algorithmic changes would (provably) boost the generalization performance of GFlowNets?    
+// GFlowNets have demonstrated exceptional performance in, e.g., NLP and combinatorial optimization. However, an understanding of the limitations of GFlowNets and a sound procedure for assessing the closeness of a trained model to its learning objective are notably absent from the literature. In this project, we aim to address questions such as: given a parametric model, which distributions can a GFlowNet learn? How to measure the closeness of the sampling distribution to the target?     
+
+// 2. *Do GFlowNets generalize?* 
+
+// Generalization is at the core of GFlowNet learning: during training, only a portion of the state space is explored and can be used for risk minimization. In this context, we ask: can we obtain (the first) non-vacuous statistical certificates for GFlowNets? Also, which algorithmic changes would (provably) boost the generalization performance of GFlowNets?    
 
 == Research Experience  
 #chiline() 
