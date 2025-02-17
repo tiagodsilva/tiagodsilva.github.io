@@ -34,11 +34,20 @@ School of Applied Mathematics, Brazil. Advisor: #link("https://weakly-informativ
 
 *BSc in Data Science* #h(1fr) 2020/03 -- 2023/12 \
 School of Applied Mathematics, Brazil \ 
-- GPA: 9.9/10.0#footnote[Lowest-passing grade of 6.0.]. 1st in class and 1st in the entrance exam. Received a fully-funded scholarship. 
+- GPA: 9.9/10.0. 1st in class and 1st in the entrance exam. Received a fully-funded scholarship. 
+// #footnote[Lowest-passing grade of 6.0.]
 // - Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. 
 
 == Selected Publications  
 #chiline() 
+
++ *When do GFlowNets learn the right distribution?* #h(1fr) ICLR 2025 (spotlight)
+  - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Garg, V., Kaski, S., Mesquita, D.
+  - TL;DR: We show that a GFlowNet's learning objective may have an unattainable global minimum, which is undetectable by standard evaluation protocols. To address this, we propose the first tractable metric for assessing GFlowNets.       
+
++ *Generalization and Distributed Learning of GFlowNets?* #h(1fr) ICLR 2025
+  - #underline([da Silva, T.]), Souza, A., Rivasplata, O., Garg, V., Kaski, S., Mesquita D.
+  - TL;DR: We devise the first PAC-Bayesian generalization bounds for GFlowNets. Inspired by them, we also introduce the first general-purpose distributed learning algorithm for GFlowNets, drastically accelerating training convergence.   
 
 + *Streaming Bayes GFlowNets* #h(1fr) NeurIPS 2024  
   - #underline([da Silva, T.]), Souza, D., and Mesquita, D.   
@@ -59,9 +68,9 @@ School of Applied Mathematics, Brazil \
 == Preprints \& Workshops 
 #chiline() 
 
-+ *Analyzing GFlowNets: Stability, Expressiveness, and Assessment* #h(1fr) SPIGM \@ ICML 2024  
-  - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Carvalho, L., Kaski, S., Garg, V., Mesquita, D.
-  - TL;DR: We demonstrate that there are problems that a GNN-based GFlowNet cannot solve. By showing that conventional metrics fail at detecting this limitation, we also present a novel and sound metric for assessing GFlowNets.    
+// + *Analyzing GFlowNets: Stability, Expressiveness, and Assessment* #h(1fr) SPIGM \@ ICML 2024  
+//   - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Carvalho, L., Kaski, S., Garg, V., Mesquita, D.
+//   - TL;DR: We demonstrate that there are problems that a GNN-based GFlowNet cannot solve. By showing that conventional metrics fail at detecting this limitation, we also present a novel and sound metric for assessing GFlowNets.    
 
 + *Human-aided Causal Discovery of Ancestral Graphs* #h(1fr) LatinX \@ NeurIPS 2024 
   - #underline([da Silva, T.]), Silva, E., Góis, A., Heider, D., Kaski, S., Mesquita, D., Ribeiro, A. 
