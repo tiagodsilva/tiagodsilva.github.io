@@ -43,7 +43,7 @@ School of Applied Mathematics, Brazil \
 
 + *When do GFlowNets learn the right distribution?* #h(1fr) ICLR 2025 (spotlight)
   - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Garg, V., Kaski, S., Mesquita, D.
-  - TL;DR: We show that a GFlowNet's learning objective may have an unattainable global minimum, which is undetectable by standard evaluation protocols. To address this, we propose the first tractable metric for assessing GFlowNets.       
+  - TL;DR: We show that a GFlowNet's learning objective may have an unattainable global minimum, which is undetectable by standard diagnostics. To address this, we propose the first tractable metric for assessing GFlowNets.       
 
 + *Generalization and Distributed Learning of GFlowNets?* #h(1fr) ICLR 2025
   - #underline([da Silva, T.]), Souza, A., Rivasplata, O., Garg, V., Kaski, S., Mesquita D.
