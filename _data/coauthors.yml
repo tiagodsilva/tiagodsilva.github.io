@@ -26,14 +26,13 @@
   - firstname: ["J.", "Jorge"]
     url: https://visualdslab.com/~jpocom/
 
-"garg": 
+"garg":
   - firstname: ["V.", "Vikas"]
     url: https://www.mit.edu/~vgarg/
 
 "rivasplata":
   - firstname: ["O.", "Omar"]
     url: https://personalpages.manchester.ac.uk/staff/omar.rivasplata/
-  
 # "souza":
 #   - firstname: ["D.", "Daniel"]
 #     url: https://spectral.space/
