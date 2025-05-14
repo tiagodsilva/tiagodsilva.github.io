@@ -28,35 +28,37 @@ tdsh97\@gmail.com |
 #chiline()
 
 #[*MSc and PhD in Applied Mathematics*] #h(1fr) 2024/03 -- 2024/12 \
-School of Applied Mathematics, Brazil \
-- MSc thesis title: Human-aided Discovery of Ancestral Graphs. 
-- PhD thesis title: Streaming, Distributed, and Asynchronous Amortized Inference.   
-- Eligible to fast-track graduation due to recognized academic excellence and scientific productivity.  
-- Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. 
+School of Applied Mathematics, Brazil. Advisor: #link("https://diegomesquita.com/")[Prof. Diego Mesquita]. \
+- Thesis title: Streaming, Distributed, and Asynchronous Amortized Inference.   
+- Eligible for fast-track graduation due to recognized academic excellence and scientific productivity. 
 
 *BSc in Data Science* #h(1fr) 2020/03 -- 2023/12 \
 School of Applied Mathematics, Brazil \ 
-- GPA: 9.9/10.0#footnote[Lowest-passing grade of 6.0.]. 1st in class and 1st in the entrance exam. Received a fully-funded scholarship. 
+- GPA: 9.9/10.0. 1st in class and 1st in the entrance exam. Received a fully-funded scholarship. 
+// #footnote[Lowest-passing grade of 6.0.]
 // - Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. 
 
-== Professional Experience  
+== Employment 
 #chiline() 
 
-#[*Green AI Lab*], Brazil #h(1fr) 2022/08 -- ongoing 
+*Rei do Pitaco*  #h(1fr) 2025/01 -- ongoing
+  - Data Scientist. 
+    - Created a scalable FastAPI-based solution for serving the company's internal bet building product.
+      - Impact: R\$ 6 MM in monthly turnover and roughly R\$ 1.2 MM in monthly revenue.
+    - Developed the first company-wide MCP to streamline operational management of our bet building product. 
 
-Researcher working with probabilistic machine learning (ML). My recent efforts were mostly directed towards leveraging GFlowNets for asynchronous and approximate Bayesian inference. I have also worked on geometric deep learning, learning theory, variational autoencoders, diffusion probabilistic models, and PINNs. Our current research led to publications at #underline[ICML] and #underline[NeurIPS]. I've also served as a Teaching Assistant for ML and statistics-related courses.
+*Proffer* (Price Monitoring & Optimization startup) #h(1fr) 2024/04 -- ongoing
+  - Software Engineer. 
+    - Extended the company's API to support larger workloads via asynchronous processing and caching. 
+    - Developed new features that facilitated the integration of the company's services with the customers' ERPs.
+    - Contributed in the migration of the company's infrastructure between cloud providers. 
+    - Helped refactor the company's ETL pipeline to ensure the codebase scaled sublinearly with cutomer growth.
 
-#[*Aalto University*], Finland #h(1fr) 2024/07 -- 2024/10 
+*Rei do Pitaco* (largest fantasy sports company in Brazil) #h(1fr) 2023/01 -- 2023/07 
+  - Data Science intern. 
+    - Designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking).
+    - Deployed and upheld the created models within applications serving thousands of concurrent users. 
 
-Visiting scholar on the Probabilistic Machine Learning group under the supervision of Prof. Vikas Garg and Prof. Sami Kaski. I worked on developing (non-vacuous) statistical guarantees for GFlowNets and on geometric deep learning. 
-
-#[*Rei do Pitaco*] (largest fantasy sports company in Brazil) #h(1fr) 2023/01 -- 2023/07 
-
-  Data Science intern. I designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking). Also, I assisted the deployment and maintenance of the created models in a large production environment. 
-
-#[*Visual Data Science Lab*], Brazil #h(1fr) 2020/08 -- 2023/01  
-
-Research assistant supervised by Prof. Jorge Poco. I assisted the development of a framework for reverse engineering of visualizations (see the open-source library #link("https://github.com/visual-ds/rev")[REV]) and of a platform for image-based literature search (see our #link("https://www.sciencedirect.com/science/article/pii/S0097849322000218")[C&G paper]). 
 
 == Honors & Awards 
 #chiline() 
@@ -82,6 +84,14 @@ I was awarded #underline[19 prizes in scientific competitions] during high schoo
 == Selected Publications  
 #chiline() 
 
++ *When do GFlowNets learn the right distribution?* #h(1fr) ICLR 2025 (spotlight)
+  - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Garg, V., Kaski, S., Mesquita, D.
+  - TL;DR: We show that a GFlowNet's learning objective may have an unattainable global minimum, which is undetectable by standard diagnostics. To address this, we propose the first tractable metric for assessing GFlowNets.       
+
++ *Generalization and Distributed Learning of GFlowNets?* #h(1fr) ICLR 2025
+  - #underline([da Silva, T.]), Souza, A., Rivasplata, O., Garg, V., Kaski, S., Mesquita D.
+  - TL;DR: We devise the first PAC-Bayesian generalization bounds for GFlowNets. Inspired by them, we also introduce the first general-purpose distributed learning algorithm for GFlowNets, drastically accelerating training convergence.   
+
 + *Streaming Bayes GFlowNets* #h(1fr) NeurIPS 2024  
   - #underline([da Silva, T.]), Souza, D., and Mesquita, D.   
   - TL;DR: We design a method to update GFlowNets trained on a streaming Bayesian posterior. Experiments show a drastic reduction in training time when compared against learning from scratch a model based on the entire dataset.
@@ -97,6 +107,41 @@ I was awarded #underline[19 prizes in scientific competitions] during high schoo
 + *Exploring scientific literature by textual and image content using DRIFT* #h(1fr) Computer \& Graphics 2022 
   - Pocco, X., #underline([da Silva, T.]), Poco, J., Nonato, L. G., Gomez-Nieto, E. 
   - TL;DR: We developed a text- and image-driven visualization-based search engine for scientific literature.  
+
+== Preprints \& Workshops 
+#chiline() 
+
+// + *Analyzing GFlowNets: Stability, Expressiveness, and Assessment* #h(1fr) SPIGM \@ ICML 2024  
+//   - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Carvalho, L., Kaski, S., Garg, V., Mesquita, D.
+//   - TL;DR: We demonstrate that there are problems that a GNN-based GFlowNet cannot solve. By showing that conventional metrics fail at detecting this limitation, we also present a novel and sound metric for assessing GFlowNets.    
+
++ *Human-aided Causal Discovery of Ancestral Graphs* #h(1fr) LatinX \@ NeurIPS 2024 
+  - #underline([da Silva, T.]), Silva, E., Góis, A., Heider, D., Kaski, S., Mesquita, D., Ribeiro, A. 
+  - TL;DR: We devise a Bayesian human-in-the-loop algorithm for causal discovery under latent confounding. 
+
+// 1. *When do GFlowNets (not) learn the right distribution?* 
+
+// GFlowNets have demonstrated exceptional performance in, e.g., NLP and combinatorial optimization. However, an understanding of the limitations of GFlowNets and a sound procedure for assessing the closeness of a trained model to its learning objective are notably absent from the literature. In this project, we aim to address questions such as: given a parametric model, which distributions can a GFlowNet learn? How to measure the closeness of the sampling distribution to the target?     
+
+// 2. *Do GFlowNets generalize?* 
+
+// Generalization is at the core of GFlowNet learning: during training, only a portion of the state space is explored and can be used for risk minimization. In this context, we ask: can we obtain (the first) non-vacuous statistical certificates for GFlowNets? Also, which algorithmic changes would (provably) boost the generalization performance of GFlowNets?    
+
+
+== Research Experience  
+#chiline() 
+
+#[*Green AI Lab*], Brazil #h(1fr) 2022/08 -- ongoing 
+
+Working with probabilistic ML. My recent efforts were mostly directed towards leveraging GFlowNets for asynchronous and approximate Bayesian inference. I have also worked on geometric deep learning, learning theory, variational autoencoders, diffusion probabilistic models, and PINNs. Our current research led to publications at #underline[ICML] and #underline[NeurIPS]. 
+
+#[*Aalto University*], Finland #h(1fr) 2024/07 -- 2024/10 
+
+I was a visiting scholar on the Probabilistic Machine Learning group under the supervision of Prof. Vikas Garg and Prof. Sami Kaski. I worked on developing (non-vacuous) statistical guarantees for GFlowNets and on geometric deep learning. 
+
+#[*Visual Data Science Lab*], Brazil #h(1fr) 2020/08 -- 2023/01  
+
+Research assistant supervised by Prof. Jorge Poco. I assisted the development of a framework for reverse engineering of visualizations (see the open-source library #link("https://github.com/visual-ds/rev")[REV]) and of a platform for image-based literature search (see our #link("https://www.sciencedirect.com/science/article/pii/S0097849322000218")[C&G paper]). 
 
 == Languages   
 #chiline() 

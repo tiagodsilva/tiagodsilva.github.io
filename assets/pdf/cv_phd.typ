@@ -127,7 +127,7 @@ I was awarded #underline[19 prizes in scientific competitions] during high schoo
   - Data Scientist. 
     - Created a scalable FastAPI-based solution for serving the company's predictive models for pricing.
   
-*Proffer* (Price Monitoring & Optimization startup) #h(1fr) 2024/04 -- 2025/02 
+*Proffer* (Price Monitoring & Optimization startup) #h(1fr) 2024/04 -- now
   - Software Engineer. 
     - Extended the company's API to support larger workloads via asynchronous processing and caching. 
     - Developed new features that facilitated the integration of the company's services with the customers' ERPs.
