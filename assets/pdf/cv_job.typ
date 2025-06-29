@@ -27,10 +27,14 @@ tdsh97\@gmail.com |
 == Education
 #chiline()
 
-#[*MSc and PhD in Applied Mathematics*] #h(1fr) 2024/03 -- 2024/12 \
+#[*PhD in Applied Mathematics*] #h(1fr) 2024/03 - 2024/12 \
 School of Applied Mathematics, Brazil. Advisor: #link("https://diegomesquita.com/")[Prof. Diego Mesquita]. \
-- Thesis title: Streaming, Distributed, and Asynchronous Amortized Inference.   
-- Eligible for fast-track graduation due to recognized academic excellence and scientific productivity. 
+- Thesis title: Streaming, Distributed, and Asynchronous Amortized Inference.
+- Eligible to fast-track graduation due to recognized academic excellence. 
+
+#[*MSc in Applied Mathematics*] #h(1fr) 2024/03 -- 2024/12 \
+School of Applied Mathematics, Brazil. Advisor: #link("https://diegomesquita.com/")[Prof. Diego Mesquita]. \
+- Thesis title: Human-aided Causal Discovery of Ancestral Graphs.   
 
 *BSc in Data Science* #h(1fr) 2020/03 -- 2023/12 \
 School of Applied Mathematics, Brazil \ 
@@ -44,7 +48,8 @@ School of Applied Mathematics, Brazil \
 *Rei do Pitaco*  #h(1fr) 2025/01 -- ongoing
   - Data Scientist. 
     - Created a scalable FastAPI-based solution for serving the company's internal bet building product.
-      - Impact: R\$ 6 MM in monthly turnover and roughly R\$ 1.2 MM in monthly revenue.
+    - The service generates over 30% of the company total's monthly revenue and roughly 50% of revenue from core products.
+    - Complete product ownership: from designing the frontend (TypeScript) and backend (Python), to provisioning infrastructure (Terraform) and setting up observability (Datadog, Airflow).
     - Developed the first company-wide MCP to streamline operational management of our bet building product. 
 
 *Proffer* (Price Monitoring & Optimization startup) #h(1fr) 2024/04 -- ongoing
@@ -165,5 +170,4 @@ Computer vision libraries: OpenCV, YOLOv5, SAM.
 #chiline() 
 
 Diego Mesquita #h(1fr) #link("mailto:diego.mesquita@fgv.br")  
-
-Amauri Souza #h(1fr) #link("mailto:amauri.souza@aalto.fi") 
+| Amauri Souza #h(1fr) #link("mailto:amauri.souza@aalto.fi") 
