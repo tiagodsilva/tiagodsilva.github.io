@@ -3,6 +3,7 @@
 
 // Make the paper dimensions fit for a presentation and the text larger
 #set page(paper: "presentation-16-9")
+// Download the font at https://fonts.google.com/specimen/Comfortaa
 #set text(size: 24pt, font: "Comfortaa")
 
 #let Var = $cal(V)$
