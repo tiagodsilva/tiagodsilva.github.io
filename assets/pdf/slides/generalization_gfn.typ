@@ -96,7 +96,7 @@
 
 
   When perfectly learned, this process reaches each
-  $x in cal(X)$ proportionally to $f(x | D) pi(x)$.
+  $x in cal(X)$ proportionally to $f(D | x) pi(x)$.
   That is, it generates *exact samples* from the *posterior*.
   We refer to $cal(X)$ as the set of *terminal states*.
 
@@ -146,12 +146,12 @@
     sum_(tau colon s_o arrow.squiggly.r x) underbrace(
       product_((s_i, s_(i + 1)) in tau) p_F (s_(i + 1) | s_i),
       p_F (tau | s_o)
-    ) prop f(x | D) pi(x) // .
+    ) prop f(D | x) pi(x) // .
   $
   #v(-12pt)
   ($s_o$ is the *source* of the state graph). This is satisfied when
   $
-    Var_(p_E) ( frac(p_F (tau | s_o), p_B ( tau | x ) f(x | D) pi(x)) ) = 0
+    Var_(p_E) ( frac(p_F (tau | s_o), p_B ( tau | x ) f(D | x) pi(x)) ) = 0
   $
   #v(-12pt)
   for a distribution $p_E$ such that $p_E (tau) > 0$ for every $tau$.
@@ -254,7 +254,7 @@
   - Both $p_T$ and $hat(p)_T$ can be efficiently computed on $S$:
 
   $
-    p_T (y) = frac(f(y | D) pi (y), sum_(tau in S) f(x | D) pi (x)) #text[ and ] hat(p)_T (y) = EE_(p_B) [ frac(p_F (tau | s_o), p_B (tau | y))].
+    p_T (y) = frac(f(y | D) pi (y), sum_(tau in S) f(D | x) pi (x)) #text[ and ] hat(p)_T (y) = EE_(p_B) [ frac(p_F (tau | s_o), p_B (tau | y))].
   $
   #v(-12pt)
   - FCS is clearly bounded by $[0, 1]$ (it is a total variation distance restricted to $S$).
