@@ -186,7 +186,7 @@
 ]
 
 #slide[
-  == Crash course on PAC-Bayes bounds
+  == A review of PAC-Bayes bounds
 
   Probably Approximately Correct (PAC) Bayes techniques provide a principled
   approach for obtaining non-vacuous statistical bounds on the generalization of a model.
