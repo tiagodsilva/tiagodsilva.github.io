@@ -19,7 +19,7 @@
 
   August, 29, 2025
 
-  Presented at ICLR, 2025.
+  ICLR, 2025.
 ]
 
 #slide[
