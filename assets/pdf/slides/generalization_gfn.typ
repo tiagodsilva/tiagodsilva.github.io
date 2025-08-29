@@ -204,7 +204,7 @@
 
     - The former can be *relaxed* by redefining $L$ as $L'(theta, x) = min(L(theta, x), B)$ for a sufficiently large $B in RR$.
 
-    - Stationarity is an good *first approximation* when dealing with *static* datasets.
+    - Stationarity is a good *first approximation* when dealing with *static* datasets.
 
 
   #box(
