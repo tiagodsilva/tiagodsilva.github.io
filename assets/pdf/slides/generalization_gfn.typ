@@ -49,12 +49,12 @@
       Our objective is to estimate the *posterior* $pi(dot.c | D)$ over $cal(X)$ given a subset $D subset cal(D)$.
 
       $
-        pi(x | D) = f(D | x) pi(x) ( sum_(y in cal(X)) pi(y | D) )^(-1)
+        pi(x | D) = f(D | x) pi(x) ( sum_(y in cal(X)) f(D | x) pi(x) )^(-1)
       $
 
       Due to $cal(X)$'s intractable size, the *partition function*
       $
-        Z = sum_(y in cal(X)) pi(y | D)
+        Z = sum_(y in cal(X)) f(D | x) pi(x)
       $
       cannot be directly computed.
     ],
