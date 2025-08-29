@@ -237,7 +237,7 @@
 
   - We adopt FCS as a performance metric for GFlowNets, which we have introduced in an earlier work.
 
-  - In a nutshell,
+  - In a nutshell, for $S = {tau_1, ..., tau_K}$,
   $
     FCS ( p_F, S ) = frac(1, 2) sum_(tau in S) | p_T (x) - hat(p)_T (x) |, // .
   $
@@ -254,7 +254,7 @@
   - Both $p_T$ and $hat(p)_T$ can be efficiently computed on $S$:
 
   $
-    p_T (x) = frac(f(x | D) pi (x), sum_(j = 1)^(N) f(x | D) pi (x)) #text[ and ] hat(p)_T (x) = EE_(p_B) [ frac(p_F (tau | s_o), p_B (tau | x))].
+    p_T (y) = frac(f(y | D) pi (y), sum_(tau in S) f(x | D) pi (x)) #text[ and ] hat(p)_T (y) = EE_(p_B) [ frac(p_F (tau | s_o), p_B (tau | y))].
   $
   #v(-12pt)
   - FCS is clearly bounded by $[0, 1]$ (it is a total variation distance restricted to $S$).
