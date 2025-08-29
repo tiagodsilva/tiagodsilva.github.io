@@ -257,7 +257,7 @@
     p_T (x) = frac(f(x | D) pi (x), sum_(j = 1)^(N) f(x | D) pi (x)) #text[ and ] hat(p)_T (x) = EE_(p_B) [ frac(p_F (tau | s_o), p_B (tau | x))].
   $
   #v(-12pt)
-  - FCS is clearly bounded by $[0, 1]$ (it is a total variation distance restricted to $cal(X)$).
+  - FCS is clearly bounded by $[0, 1]$ (it is a total variation distance restricted to $S$).
   #v(-12pt)
   - We define the *generalization gap* of a GFlowNet as
   $
