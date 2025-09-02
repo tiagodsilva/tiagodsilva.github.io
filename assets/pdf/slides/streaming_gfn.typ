@@ -112,7 +112,7 @@
 #slide[
   == Generative Flow Networks (GFlowNets)
 
-  Compositional objects (e.g., Street Fighter combos) are uniquely characterized by:
+  Compositional objects are uniquely characterized by:
 
   1. A *state space*, $cal(S)$, with both incomplete and complete objects. $cal(S)$ also contains the *simplest of states* $s_o$.
 
