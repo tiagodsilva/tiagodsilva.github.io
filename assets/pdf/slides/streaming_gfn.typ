@@ -27,11 +27,17 @@
 
   Also, let $cal(D)$ be the data space, $f(dot.c | x) colon cal(D) arrow.r RR$ be a likelihood function, and $pi colon cal(X) arrow.r RR$ be a prior on $cal(X)$.
 
+]
+
+
+#slide[
+  == Compositional spaces
+
   #align(
     center,
     image(
       "figures/street_fighter.jpg",
-      height: 52%,
+      height: 80%,
     ),
   )
 ]
