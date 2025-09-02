@@ -215,7 +215,7 @@
 
   Our prior approach results in a policy $p_F^(theta_i)$.
 
-  This policy *generates approximate samples* from $R_i(x)$.
+  This policy *generates approximate samples* from $R_i (x)$.
 
   #v(12pt)
 
@@ -243,7 +243,7 @@
 #slide[
   == Streaming Bayes GFlowNets
 
-  We use the $i$th model as a *prior* for the $(i + 1)$ model.
+  We use the $i$th model as a *prior* for the $(i + 1)$th model.
 
   To understand this, notice that
 
@@ -347,7 +347,7 @@
 #slide[
   == Empirical illustration
 
-  *Example*: Linear preference learning with integer-valued features.
+  *Example*: Linear preference learning with integer-valued features (Cole, 1993).
 
   *Data*. $(d_(i 1), d_(i 2), p_i) in {1, 0}^(k) times {1, 0}^(k) times {1, 0}$.
 
@@ -426,4 +426,12 @@
     inset: 8pt,
     [SB-GFlowNets pave the road for reduced environmental footprint for GFlowNet training via model reuse.],
   )
+]
+
+#slide[
+  == References
+
+  Bengio, Y., et al. GFlowNet Foundations. JMLR, 2021.
+
+  Cole, T.. Scaling and rounding regression coefficients to integers. Applied Statistics, 1993.
 ]
