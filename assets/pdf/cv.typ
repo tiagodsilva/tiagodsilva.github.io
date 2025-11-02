@@ -160,7 +160,7 @@ Worked on the development of an open-source library for reverse engineering visu
 == Teaching
 #chiline()
 
-I worked as a teaching assistant for four years in the School of Applied Mathematics
+I worked as a teaching assistant for four years at the School of Applied Mathematics
 in courses on statistics and machine learning.
 I assisted the professors in designing and grading homeworks. Also, I held office hours to support students.
 
