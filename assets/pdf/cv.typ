@@ -137,7 +137,7 @@ I was awarded #underline[19 prizes in scientific competitions] during high schoo
 == Research Experience
 #chiline()
 
-#[*Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)*] #h(1fr) 2025/10 -- ongoing
+#[*Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)*], UAE #h(1fr) 2025/10 -- ongoing
 
 Working on probabilistic machine learning and Bayesian inference.
 
