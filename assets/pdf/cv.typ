@@ -162,7 +162,7 @@ Worked on the development of an open-source library for reverse engineering visu
 
 I worked as a teaching assistant for four years at the School of Applied Mathematics
 in courses on statistics and machine learning.
-I assisted the professors in designing and grading homeworks. Also, I held office hours to support students.
+I assisted the professors in designing and grading homeworks. I also held office hours to support students.
 
 == Languages
 #chiline()
