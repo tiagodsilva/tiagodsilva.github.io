@@ -94,8 +94,8 @@ School of Applied Mathematics, Brazil \
 
 *Rei do Pitaco*  #h(1fr) 2025/01 -- 2025/11
   - Data Scientist.
-    - Spearheaded the development of the bet builder, allowing customers to create customized bets.
-      Also, I designed, implemented, and maintained both the statistical algorithm and the web API responsible for the real-time odds calculations.
+    - Spearheaded the development of the company's bet builder, allowing customers to create customized bets.
+      I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
     - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
     - Left to pursue and expand my academic interests overseas.
 
