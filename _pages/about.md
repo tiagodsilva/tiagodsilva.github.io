@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist @ Rei do Pitaco
+subtitle: Reseacher @ MBZUAI
 
 profile:
   align: right
