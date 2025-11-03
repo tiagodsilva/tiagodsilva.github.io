@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a researcher at [MBZUAI](https://mbzuai.ac.ae/) working with [Salem Lahlou](https://lahlou.org/). Prior to this, I obtained my PhD degree in Applied Mathematics from the [School of Applied Mathematics](https://emap.fgv.br/en) of the [Getulio Vargas Foundation](https://fgv.br/en) (FGV) under the supervision of [Diego Mesquita](https://weakly-informative.github.io/). I also hold a BSc and MSc degrees in Data Science from the same institution.
+I am a researcher at [MBZUAI](https://mbzuai.ac.ae/) working in [Salem Lahlou](https://lahlou.org/)'s group. Prior to this, I obtained my PhD degree in Applied Mathematics from the [School of Applied Mathematics](https://emap.fgv.br/en) of the [Getulio Vargas Foundation](https://fgv.br/en) (FGV) under the supervision of [Diego Mesquita](https://weakly-informative.github.io/). I also hold a BSc and MSc degrees in Data Science from the same institution.
 During my PhD, I worked on (large-scale) amortized inference and statistical learning theory, with a special focus on [GFlowNets](https://yoshuabengio.org/2022/03/05/generative-flow-networks/).
 
 In between my PhD and my current role, I worked on pricing and risk management projects as a data scientist and engineer.
