@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Reseacher @ MBZUAI
+subtitle: Researcher @ MBZUAI
 
 profile:
   align: right
