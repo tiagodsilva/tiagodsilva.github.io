@@ -30,7 +30,7 @@ tdsh97\@gmail.com |
 #[*PhD in Applied Mathematics*] #h(1fr) 2024/03 -- 2024/12 \
 School of Applied Mathematics, Brazil. Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. \
 - Thesis title: Streaming, Distributed, and Asynchronous Amortized Inference.
-- Eligible for fast-track graduation due to recognized academic excellence and scientific productivity.
+- Fast-tracked graduation due to recognized academic excellence and scientific productivity.
 
 #[*MSc in Applied Mathematics*] #h(1fr) 2024/03 -- 2024/12 \
 School of Applied Mathematics, Brazil. Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. \
