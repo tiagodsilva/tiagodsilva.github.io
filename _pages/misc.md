@@ -2,6 +2,8 @@
 layout: page
 title: misc
 permalink: /misc/
+nav: true
+nav_order: 3
 
 description: Collection of timeless truths about me.
 ---
