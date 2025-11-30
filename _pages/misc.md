@@ -15,4 +15,3 @@ I have a twin brother, [Diego](/assets/img/diego.jpg).
 When I was 18 years old, I left Florianópolis to live and study in [Rio de Janeiro](https://www.google.com/maps/place/Rio+de+Janeiro,+RJ,+Brasil/@-22.9131581,-43.7756356,10z/data=!3m1!4b1!4m6!3m5!1s0x9bde559108a05b:0x50dc426c672fd24e!8m2!3d-22.9068467!4d-43.1728965!16zL20vMDZnbXI?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D), where I ended up getting my bachelor's, master's, and doctoral degrees in applied mathematics.
 
 That is it (for timeless truths). Birth, taxes, and death are the only certainties in life (Franklin forgot about birth). [SCNR](http://www.catb.org/jargon/html/S/SCNR.html).
-
