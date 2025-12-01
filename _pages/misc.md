@@ -7,7 +7,7 @@ nav_order: 3
 
 profile:
   align: right
-  image: profile.jpg
+  image: otsolahdenniemi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Otsolahdenniemi, Espoo, Finland</p>
