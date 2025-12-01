@@ -1,21 +1,36 @@
 ---
-layout: about
+layout: page
 title: misc
 permalink: /misc/
 nav: true
 nav_order: 3
 
-profile:
-  align: right
-  image: otsolahdenniemi.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Otsolahdenniemi, Espoo, Finland, October 2024</p>
-
 description: Collection of timeless truths about me (and some nice things).
 ---
 
-I was born in the beautiful island of [Florianópolis, Santa Catarina, Brazil](https://www.google.com/maps/place/Florian%C3%B3polis,+SC,+Brasil/@-27.5705976,-48.7999297,10z/data=!3m1!4b1!4m6!3m5!1s0x9527394eb2c632d7:0x81bc550b6a04c746!8m2!3d-27.5968578!4d-48.5468118!16s%2Fg%2F11bc6xlppd?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D).
+I was born in the beautiful island of [Florianópolis, Brazil](https://www.google.com/maps/place/Florian%C3%B3polis,+SC,+Brasil/@-27.5705976,-48.7999297,10z/data=!3m1!4b1!4m6!3m5!1s0x9527394eb2c632d7:0x81bc550b6a04c746!8m2!3d-27.5968578!4d-48.5468118!16s%2Fg%2F11bc6xlppd?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D).
+
+<div style="
+  float: right;
+  max-width: 260px;
+  margin-left: 8px;
+  margin-right: -16px;
+  margin-bottom: 16px;
+  margin-top:-38px">
+  <img src="/assets/img/otsolahdenniemi.jpg" style="
+    width: 99%;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  ">
+  <p style="
+    font-size: 0.85em;
+    color: #777;
+    margin-top: 6px;
+    text-align: center;
+  ">
+    Otsolahdenniemi, Espoo, Finland
+  </p>
+</div>
 
 I have a (twin) brother, [Diego](/assets/img/diego.jpg).
 
