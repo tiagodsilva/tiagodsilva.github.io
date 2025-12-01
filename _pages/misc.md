@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: misc
 permalink: /misc/
 nav: true
@@ -7,7 +7,7 @@ nav_order: 3
 
 profile:
   align: right
-  image: /assets/img/otsolahdenniemi.jpg
+  image: otsolahdenniemi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Otsolahdenniemi, Espoo, Finland, October 2024</p>
