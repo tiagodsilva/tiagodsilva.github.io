@@ -10,7 +10,7 @@ profile:
   image: otsolahdenniemi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Otsolahdenniemi, Espoo, Finland</p>
+    <p>Otsolahdenniemi, Espoo, Finland, October 2024</p>
 
 description: Collection of timeless truths about me.
 ---
