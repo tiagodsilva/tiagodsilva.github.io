@@ -92,22 +92,27 @@ School of Applied Mathematics, Brazil \
 == Employment
 #chiline()
 
-*Rei do Pitaco*  #h(1fr) 2025/01 -- 2025/11
-  - Data Scientist.
+
+*Mohamed bin Zayed University of Artificial Intelligence* #h(1fr) _Abu Dhabi, UAE_
+  - Postdoctoral Associate. #h(1fr) 2025/10 -- ongoing
+    - Working on probabilistic machine learning and Bayesian inference.
+
+*Rei do Pitaco*  #h(1fr) _Santa Catarina, Brazil_
+  - Data Scientist. #h(1fr) 2025/01 -- 2025/11
     - Spearheaded the development of the company's bet builder, allowing customers to create customized bets.
       I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
     - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
-    - Left to pursue and expand my academic interests overseas.
+    // - Left to pursue and expand my academic interests overseas.
 
-*Proffer* (Price Monitoring & Optimization startup) #h(1fr) 2024/04 -- 2025/09
-  - Software Engineer.
+*Proffer* (Price Monitoring & Optimization startup) #h(1fr) _Rio de Janeiro, Brazil_
+  - Software Engineer. #h(1fr) 2024/04 -- 2025/09
     - Extended the company's API to support larger workloads via asynchronous processing and caching.
     - Led the adoption of Infrastructure as Code (IaC) using Terraform as a standard for the company's web scraping services.
     // - Designed new features for easier integration with the customer's ERPs.
     - Assisted in the migration of the company's infrastructure between cloud providers (AWS and Azure).
 
-*Rei do Pitaco* (largest fantasy sports company in Brazil) #h(1fr) 2023/01 -- 2023/07
-  - Data Science intern.
+*Rei do Pitaco* (largest fantasy sports company in Brazil) #h(1fr) _Rio de Janeiro, Brazil_
+  - Data Science intern. #h(1fr) 2023/01 -- 2023/07
     - Designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking).
     - Deployed and upheld the created models within applications serving thousands of concurrent users.
 
@@ -136,10 +141,6 @@ I was awarded #underline[19 prizes in scientific competitions] during high schoo
 
 == Research Experience
 #chiline()
-
-#[*Mohamed bin Zayed University of Artificial Intelligence*], UAE #h(1fr) 2025/10 -- ongoing
-
-Working on probabilistic machine learning and Bayesian inference.
 
 #[*Green AI Lab*], Brazil #h(1fr) 2022/08 -- 2025/10
 
