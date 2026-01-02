@@ -49,7 +49,8 @@ School of Applied Mathematics, Brazil \
   - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Garg, V., Kaski, S., Mesquita, D.
   - TL;DR: We show that a GFlowNet's learning objective may have an unattainable global minimum, which is undetectable by standard diagnostics. To address this, we propose the first tractable metric for assessing GFlowNets.
 
-+ *Generalization and Distributed Learning of GFlowNets?* #h(1fr) ICLR 2025
+// + *Generalization and Distributed Learning of GFlowNets?* #h(1fr) ICLR 2025
++ *Generalization and Distributed Learning of GFlowNets* #h(1fr) ICLR 2025
   - #underline([da Silva, T.]), Souza, A., Rivasplata, O., Garg, V., Kaski, S., Mesquita D.
   - TL;DR: We devise the first PAC-Bayesian generalization bounds for GFlowNets. Inspired by them, we also introduce the first general-purpose distributed learning algorithm for GFlowNets, drastically accelerating training convergence.
 
