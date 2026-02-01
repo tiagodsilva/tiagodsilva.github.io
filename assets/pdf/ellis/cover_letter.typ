@@ -1,11 +1,32 @@
+// 1. Define your header information
+#let name = "Tiago da Silva, Ph.D."
+#let current_position = "Postdoctoral Researcher @ MBZUAI"
+#let target_position = "Postdoctoral Researcher @ ELLIS Finland"
+
+// 2. The Header Layout
+#grid(
+  columns: (1fr, 1fr),
+  align: (left, right),
+  [
+    *#text(size: 1.2em)[#name]* \
+    #text(style: "italic", fill: gray.darken(20%))[#current_position]
+  ],
+  [
+    #text(style: "italic", fill: gray.darken(20%))[Cover Letter for:] \
+    #target_position
+  ]
+)
+
+// A subtle horizontal line to separate the header from the body
+#v(0.5em)
+#line(length: 100%, stroke: 0.5pt + gray)
+#v(1em)
 #set par(justify: true)
 
 *Summary of qualifications.*
-I have a solid experience in probabilistic machine learning (ML) research, a strong background in applied mathematics, and a long-standing practical knowledge in programming.
-In particular, I can competently write deep learning programs based on Jax and PyTorch, and I am both interested and knowledgeable about approximate Bayesian inference and large-scale numerical computations.
-Besides, I have a consistent track of collaborative work on culturally diverse environments---both nationally and internationally (Brazil, Finland, and the UAE).
-In this context, I believe
-I am well-positioned to contribute effectively as a postdoctoral researcher at the Technical University of Denmark in Søren Hauberg's group.
+I possess a solid experience in probabilistic machine learning (ML) research, a strong background in applied mathematics, and a long-standing practical knowledge in programming.
+I also maintained a strong track-record in both publishing and reviewing for top-tier ML venues---including NeurIPS, ICML, and ICLR---while cultivating both national and international collaborations (Brazil, Finland, UAE).
+Therefore, I am confident I am well-positioned to join ELLIS Institute Finland as a postdoctoral fellow and contribute effectively to its ongoing and future projects.
 
 
 == The past and the present
