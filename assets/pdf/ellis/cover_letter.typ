@@ -24,8 +24,8 @@
 #set par(justify: true)
 
 *Summary of qualifications.*
-I possess a solid experience in probabilistic machine learning (ML) research, a strong background in applied mathematics, and a long-standing practical knowledge in programming.
-I also maintained a strong track-record in both publishing and reviewing for top-tier ML venues---including NeurIPS, ICML, and ICLR---while cultivating both national and international collaborations (Brazil, Finland, UAE).
+I possess a solid experience in probabilistic machine learning (ML) research, a well-established background in applied mathematics, and a long-standing practical knowledge in programming.
+I also maintained a strong track-record in both publishing and reviewing for top-tier ML venues---including NeurIPS, ICML, and ICLR---while cultivating national and international collaborations (Brazil, Finland, UAE).
 Therefore, I am confident I am well-positioned to join ELLIS Institute Finland as a postdoctoral fellow and contribute effectively to its ongoing and future projects.
 
 
