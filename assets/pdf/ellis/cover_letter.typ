@@ -23,6 +23,8 @@
 #v(1em)
 #set par(justify: true)
 
+#show link: underline
+
 *Summary of qualifications.*
 I possess a solid experience in probabilistic machine learning (ML) research, a well-established background in applied mathematics, and a long-standing practical knowledge in programming.
 I also maintained a strong track-record in both publishing and reviewing for top-tier ML venues---including NeurIPS, ICML, and ICLR---while cultivating national and international collaborations (Brazil, Finland, UAE).
@@ -32,45 +34,33 @@ Therefore, I am confident I am well-positioned to join ELLIS Institute Finland a
 == The past and the present
 
 *A short biography.*
-I was born in the island of
-Florianópolis, in Brazil.
-During my teenage years, I was deeply engaged in academic olympiads, in which I consistently ranked among the best in the country
-in both mathematical and chemistry competitions.
-Upon coming of age, I was
-invited for a fully-funded undergraduate scholarship at the Getulio Vargas Foundation's School of Applied Mathematics, a recently created institution spearheaded by some of the most prominent Brazilian mathematicians, e.g., \href{https://en.wikipedia.org/wiki/C%C3%A9sar_Camacho}{César Camacho} and \href{https://en.wikipedia.org/wiki/Alfredo_Noel_Iusem}{Alfredo Iusem}.
-After four years, I finished my bachelor's degree in Data Science with a near-perfect GPA.
-A year later, due to my scientific productivity and
-consistent academic excellence, I also successfully defended both my master's and doctoral's theses on Applied Mathematics.
-Following this, I have spent several months contributing to risk management and engineering projects in the sports betting and retail industries at rapidly growing Brazilian startups.
-Then, I returned to academia as a postdoctoral associate at MBZUAI in the UAE---a fast-paced and AI-first university with a prestigious faculty body, including \href{https://en.wikipedia.org/wiki/Eric_Xing}{Eric Xing} and \href{https://en.wikipedia.org/wiki/%C3%89ric_Moulines}{Éric Moulines}---, where I am working on the analysis and design of approximate inference algorithms through the lens of amortized sampling.
+I was born in Brazil.
+During my teenage years, I was very much engaged into academic olympiads.
+After consistently scoring among the top in both mathematics and chemistry competitions, I was invited for a fully-funded scholarship at the recently born School of Applied Mathematics---spearheaded by some of the most prominent Brazilian mathematicians, including #link("https://en.wikipedia.org/wiki/C%C3%A9sar_Camacho")[César Camacho] and #link("https://en.wikipedia.org/wiki/Alfredo_Noel_Iusem")[Alfredo Iusem].
+I graduated with a near-perfect GPA---9.9 out of 10---and, due to my academic productivity, successfully defended both my MSc and PhD theses a year later.
+Having acquired a solid understanding of Bayesian amortized inference, the central theme of my thesis, I moved to #link("https://mbzuai.ac.ae/")[MBZUAI] as a postdoctoral associate with the objective of (i) identifying the limitations of such methods and (ii) devising principled tools for mitigating them.
+In between defending my PhD and researching at MBZUAI, I have also worked at Brazilian tech startups as an analytics engineer.
 
 *Research experience.*
-During my PhD, my research focused on algorithmic and theoretical improvements for Generative Flow Networks (GFlowNets), which are a class of models for amortized sampling on discrete and compositional spaces (e.g., graphs and sentences---which can be built by adding atomic components, such as edges and tokens, to a fixed initial state).
-From a theoretical viewpoint, I designed PAC-Bayesian generalization bounds, delineated the expressivity, and studied divergence-based learning objectives for GFlowNets
-Drawing on the derived theory, I developed distributed and streaming algorithms for large-scale approximate Bayesian inference on discrete posteriors.
-My research has appeared
-at the top-tier ML venues (e.g., NeurIPS, ICML).
+My PhD research focused on algorithmic improvements and theoretical understanding of Generative Flow Networks (GFlowNets), which are a family of neural network-based methods for amortized sampling over combinatorial spaces.
+Perhaps counterintuitively, the lack of a non-trivial topological structure for discrete spaces pose challenges that are less of a concern in their continuous counterparts---for which gradient-based methods (e.g., HMC, MALA) shiny.
+Notwithstanding, discrete objects are ubiquituous in domains such as therapeutics (molecules), phylogenetics (phylogenetic trees), and causality (causal graphs).
+With this in mind, I developed distributed (ICML 2024) and streaming (NeurIPS 2024) algorithms for discrete amortized inference, along with non-vacuous generalization bounds (ICLR 2025), expressivity characterization (ICLR 2025), and low-variance learning objectives (NeurIPS 2024) for faster and sample-efficient learning of amortized samplers#footnote[Please refer to the attached CV for a list of publications.].
 
-*Professional experience.*
-I have also worked for approximately two years---during and after my PhD---as an analytics engineer at tech startups.
-Throughout this period, I built web APIs, deployed them in cloud-based services, and maintained them for internal and external users.
-During this period, I learned about software engineering and project management, and I also greatly sharpened my communication skills for a non-technical audience.
+*Teaching experience.*
+// Besides research,
+I have also served as a teaching assistant for five years in both undergraduate and graduate courses---including linear algebra, probabiltiy theory, machine learning, and time series---wherein I designed problem sheets, held office hours, and graded the students' coursework.
 
 
 == Fitness to the position
 
 *Alignment in research interests.*
 Bayesian statistics provides a principled and pragmatic framework for learning from data.
-At its core, Bayes's rule naturally %
-implements a belief update mechanism based on noisy information.
-Nonetheless, the research community still struggles to efficiently incorporate Bayesian principles into
-modern deep learning systems.
-With this in mind, identifying and mitigating the challenges constraining the efficient implementation of Bayesian methods has been a major driver of my research.
-As exact Bayesian inference is computationally intractable, I have both studied and worked during the past few years on understanding the Bayesian framework and devising effective tools for carrying out \emph{approximate Bayesian inference} on large-scale and complex distributions.
-Notably, these methods amount to minimizing a divergence (distance) function from a family of tractable distributions to a target measure, having an inherently geometrical interpretation \ref{pp:divergences}.
-As such, I also have a growing interest in differential geometry---Riemannian manifolds, logarithmic and exponential maps, curved exponential families---, which is a mathematically coherent approach for cleanly characterizing these problems.
+At its core, Bayes's rule naturally implements a belief update mechanism based on noisy information.
+However, the research community still struggles to efficiently incorporate Bayesian principles into modern deep learning systems.
+Conversely, effective modelling tools for ML (e.g., neural networks, accelerated computing) have not yet found wide adoption in Bayesian statistics.
+Identifying and mitigating the challenges responsible for this have been the major driver of my research.
+Towards these objectives, I am looking for a postdoctoral position at Luigi Acerbi, Vikas Garg, Arto Klami, or Arno Solin's groups at ELLIS Institute Finland and partner universities.
 
-*What lies ahead?*
-I am also eager to work with students, aid with teaching,
-assist with grant-writing, and engage in further academic activities
-(e.g., reading groups, presentations).
+*P.S.*
+I am also eager to work with students, aid with teaching, and assist with grant-writing.
