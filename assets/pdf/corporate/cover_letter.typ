@@ -3,7 +3,7 @@
 #let current_position = "Postdoctoral Researcher @ MBZUAI"
 #let target_position = "Data Scientist @ Nubank"
 #set page(
-  margin: (x: 2.4cm, y: 2cm),
+  margin: (x: 2.6cm, y: 2cm),
 )
 
 // 2. The Header Layout
