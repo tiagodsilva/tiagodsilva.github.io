@@ -65,7 +65,7 @@ I developed distributed (ICML 2024) and streaming (NeurIPS 2024) algorithms for 
 
 *Fitness to the position*.
 Besides the technical alignment, I am searching for increasingly larger, more difficult problems to be solved alongside a self-motivated and ambitious team.
-As such, I believe Nubank is the best place for achieving such a goal.
+As such, I believe Nubank is the best place for achieving this goal.
 
 
 // *Alignment in research interests.*
