@@ -38,11 +38,11 @@ Please refer to #link("https://tiagodsilva.github.io/assets/pdf/research_stateme
 == Academic Employment
 #chiline()
 
-Postdoctoral associate, *MBZUAI.* #h(1fr) _Abu Dhabi, UAE_, 2025/10 -- ongoing
+*Postdoctoral associate*, MBZUAI. #h(1fr) _Abu Dhabi, UAE_, 2025/10 -- ongoing
 
-Postdoctoral associate, *Getulio Vargas Foundation.* #h(1fr) _Rio de Janeiro, Brazil_, 2025/01 -- 2025/10
+*Postdoctoral associate*, Getulio Vargas Foundation. #h(1fr) _Rio de Janeiro, Brazil_, 2025/01 -- 2025/10
 
-Visiting scholar, *Aalto University.* #h(1fr) _Espoo, Finland_, 2024/07 -- 2024/10
+*Visiting scholar*, Aalto University. #h(1fr) _Espoo, Finland_, 2024/07 -- 2024/10
 
 // PhD student, // .
 // *Getulio Vargas Foundation.* #h(1fr) _Rio de Janeiro, Brazil_, 2024/01 -- 2024/12
@@ -94,12 +94,12 @@ School of Applied Mathematics, Brazil \
 == Teaching activity
 #chiline()
 
-1. Teaching assistant, *Getulio Vargas Foundation* #h(1fr) 2021-2025
+1. *Teaching assistant*, Getulio Vargas Foundation #h(1fr) 2021-2025
   - TA'd for machine learning, statistics, time series, data analysis, probability theory, and linear algebra courses.
   - Partnered with faculty to design and grade homeworks and exams.
   - Held office hours to support students, and provided structured solutions for take-home assignments (#link("https://github.com/Caioflp/monitoria-algebra-linear")[here] and #link("https://github.com/Caioflp/monitoria-teoria-da-probabilidade")[here]).
 
-2. Industry Project Co-supervisor, *Rei do Pitaco* #h(1fr) 2025/08--2025/11
+2. *Industry Project Co-supervisor*, Rei do Pitaco #h(1fr) 2025/08--2025/11
   - Co-supervised three undergraduate students in scoping and solving an open-ended industry problem.
   - Guided the team through problem formulation, solution design, implementation, and presentation.
 
