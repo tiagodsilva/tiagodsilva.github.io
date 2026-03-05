@@ -32,7 +32,7 @@ My current research is centered around the question: how to incorporate Bayesian
 The Bayesian paradigm provides a unifying framework for understanding, designing, and implementing ML models; however, their core tenets are seldom explicitly integrated into modern AI systems due to computational intractability.
 // Identifying // useful and
 Developing computationally tractable approximations to Bayesian models is therefore the central objective of my ongoing and previous works, which have repeatedly appeared at the most prestigious ML conferences (ICML, NeurIPS, ICLR).
-Please refer to #link("https://tiagodsilva.github.io/assets/pdf/research_statemet.pdf")[my research and teaching statements] for further information.
+Please refer to #link("https://tiagodsilva.github.io/assets/pdf/research_statement.pdf")[my research and teaching statements] for further information.
 
 
 == Academic Employment
