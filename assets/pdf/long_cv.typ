@@ -143,7 +143,7 @@ School of Applied Mathematics, Brazil \
 == Community service
 #chiline()
 
-I served as a reviewer for ICML 2025, NeurIPS 2025, ICLR 2025, AISTATS 2025, and ICML 2026.
+I served as a reviewer for ICML 2025, NeurIPS 2025, ICLR 2025, AISTATS 2026, and ICML 2026.
 
 == Languages
 #chiline()
