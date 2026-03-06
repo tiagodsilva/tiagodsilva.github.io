@@ -94,16 +94,20 @@ School of Applied Mathematics, Brazil \
 == Teaching activity
 #chiline()
 
-1. *Teaching assistant*, Getulio Vargas Foundation #h(1fr) 2021-2025
+1. *Co-supervision*, Getulio Vargas Foundation \& MBZUAI #h(1fr) 2024-ongoing
+  - Assisted BSc, MSc, and PhD students in both formulating problems and writing papers (e.g., manuscripts 1-2 below).
+  - Coached students in effectively responding to reviewer feedback.
+
+2. *Teaching assistant*, Getulio Vargas Foundation #h(1fr) 2021-2025
   - TA'd for machine learning, statistics, time series, data analysis, probability theory, and linear algebra courses.
   - Partnered with faculty to design and grade homeworks and exams.
   - Held office hours to support students, and provided structured solutions for take-home assignments (#link("https://github.com/Caioflp/monitoria-algebra-linear")[here] and #link("https://github.com/Caioflp/monitoria-teoria-da-probabilidade")[here]).
 
-2. *Industry Project Co-supervisor*, Rei do Pitaco #h(1fr) 2025/08--2025/11
+3. *Industry Project Co-supervisor*, Rei do Pitaco #h(1fr) 2025/08--2025/11
   - Co-supervised three undergraduate students in scoping and solving an open-ended industry problem.
   - Guided the team through problem formulation, solution design, implementation, and presentation.
 
-3. Guest Lecturer, graduate-level courses on Machine Learning and Reinforcement Learning. #h(1fr) 2024, 2025
+4. *Guest Lecturer*, graduate-level courses on Machine Learning and Reinforcement Learning. #h(1fr) 2024, 2025
 
 
 == Peer-reviewed research
@@ -154,7 +158,11 @@ Portuguese (Native), English (Fluent)
 == Honors & Awards
 #chiline()
 
-*Award for Academic Excellence*, Brazilian Society of Applied and Computational Mathematics. #h(1fr) 2023
+*Top-ranked doctoral thesis* for Mathematics and Statistics, Brazil Graduate Education Agency (CAPES) #h(1fr) 2025
+
+*Top-ranked doctoral thesis* for Computer Science, Brazil Computer Society (SBC) #h(1fr) 2025
+
+*Award for Academic Excellence*, Brazilian Society of Applied and Computational Mathematics (SBMAC). #h(1fr) 2023
 
 *First place*, School of Applied Mathematics entrance exam. #h(1fr) 2020
 
