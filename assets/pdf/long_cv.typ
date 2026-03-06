@@ -158,9 +158,9 @@ Portuguese (Native), English (Fluent)
 == Honors & Awards
 #chiline()
 
-*Top-ranked doctoral thesis* for Mathematics and Statistics, Brazil Graduate Education Agency (CAPES) #h(1fr) 2025
+*Top-ranked doctoral thesis* for Mathematics and Statistics, Brazilian Graduate Education Agency (CAPES) #h(1fr) 2025
 
-*Top-ranked doctoral thesis* for Computer Science, Brazil Computer Society (SBC) #h(1fr) 2025
+*Top-ranked doctoral thesis* for Computer Science, Brazilian Computer Society (SBC) #h(1fr) 2025
 
 *Award for Academic Excellence*, Brazilian Society of Applied and Computational Mathematics (SBMAC). #h(1fr) 2023
 
