@@ -2,7 +2,7 @@
 // 1. Define your header information
 #let name = "Tiago da Silva, Ph.D."
 #let current_position = "Postdoctoral Researcher @ MBZUAI"
-#let target_position = "Data Scientist @ NuBank"
+#let target_position = "Machine Learning Engineer @ NuBank"
 #set page(
   margin: (x: 4cm, y: 4cm),
 )
