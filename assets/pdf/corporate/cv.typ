@@ -56,10 +56,11 @@ School of Applied Mathematics, Getulio Vargas Foundation, Brazil \
     - I am working on probabilistic machine learning and Bayesian inference.
 
 *Rei do Pitaco* (fastest-growing sports betting startup in Brazil) #h(1fr) _Santa Catarina, Brazil_
-  - Data Scientist. #h(1fr) 2025/01 -- 2025/11
+  - Data Scientist \& Engineer. #h(1fr) 2025/01 -- 2025/11
     - I spearheaded the development of the company's bet builder, allowing customers to create customized bets.
       I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
     - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
+    - Developed ETL pipelines with dbt and Airflow for near-real-time data processing and service monitoring.
     // - Left to pursue and expand my academic interests overseas.
 
 *Aalto University* #h(1fr) _Espoo, Finland_
@@ -125,7 +126,7 @@ Computer languages: Proficient with #underline[Python] and #underline[SQL]. Comp
 
 Scientific computing frameworks: PyTorch, PyTorch Geometric, GPyTorch, NumPy, SciPy, Jax, sklearn, Pandas.
 
-Technologies: Git, Linux, Docker, FastAPI, Datadog, Kubernetes, Argo, Tailscale, Kafka, Airflow.
+Technologies: Git, Linux, Docker, FastAPI, Datadog, Kubernetes, Argo, Tailscale, Kafka, Airflow, dbt.
 
 == References
 #chiline()
