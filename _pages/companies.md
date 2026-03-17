@@ -1,0 +1,50 @@
+Upon completing my Bachelor's and, soon after, my PhD, I have applied to countless positions as a researcher, data scientist, and engineer, from both well-known and niche companies. 
+This page, for future reference and for anyone interested (e.g., undergrad students from FGV), enumerates the offers and rejections I encountereted along the way.
+
+**Offers.**
+
+1. Rei do Pitaco (internal referral).
+2. Brandlovers (internal referral).
+3. Proffer (internal referral).
+4. MBZUAI (internal referral).
+3. Fundação CERTI (cold application).
+
+**Rejections.**
+
+Often, I simply give up on the application if I have the feeling that the outcome of the---often long---interview process will result in a negative response from the company. 
+For the larger companies (e.g., Google, Nubank, etc.), I applied multiple times. 
+
+1. ELLIS Finland Postdoc call.
+2. Google.
+3. DeepMind.
+4. Microsoft.
+5. Meta.
+6. XP.
+7. BTG Pactual.
+8. Dell.
+9. Nubank.
+10. McKinsey.
+11. IPM Sistemas.
+12. Fundação CERTI (I applied multiple times). 
+13. Wise Capital. 
+14. Amazon.
+15. Ambev.
+16. Magazine Luiza. 
+17. Quinto Andar. 
+18. Insider Store. 
+19. Embraer. 
+20. Itaú. 
+21. Datarisk.
+22. Globo.
+23. Sportsradar. 
+24. IBM.
+25. Pinterest.
+26. Wildlife Studios.
+27. JPMorgan.
+28. Deloitte.
+29. bet365.
+30. Data.bet.
+31. willbank.
+32. Commonwealth Bank.
+
+Damn.
