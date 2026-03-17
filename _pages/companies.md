@@ -12,7 +12,7 @@ This page, for future reference and for anyone interested, enumerates the offers
 **Offers.**
 
 1. Rei do Pitaco (internal referral).
-2. Brandlovers (internal referral).
+2. Brandlovers (headhunted).
 3. Proffer (internal referral).
 4. MBZUAI (internal referral).
 5. Fundação CERTI (cold application).
