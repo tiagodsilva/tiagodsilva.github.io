@@ -62,7 +62,7 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 35. TikTok.
 36. AB InBev.
 37. Goldman Sachs.
-38. Prior Labs. 
+38. Prior Labs.
 39. G-Reserch.
 40. Millenium.
 41. EBANX.
