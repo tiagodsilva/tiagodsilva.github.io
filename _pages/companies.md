@@ -40,7 +40,7 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 14. Amazon.
 15. Ambev.
 16. Magazine Luiza.
-17. Quinto Andar.
+17. QuintoAndar.
 18. Insider Store.
 19. Embraer.
 20. Itaú.
