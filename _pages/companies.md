@@ -16,6 +16,7 @@ This page, for future reference and for anyone interested, enumerates the offers
 3. Proffer (internal referral).
 4. MBZUAI (internal referral).
 5. Fundação CERTI (cold application).
+6. Helsinki University (cold application).
 
 **Rejections.**
 
