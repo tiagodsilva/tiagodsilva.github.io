@@ -57,5 +57,7 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 31. willbank.
 32. Commonwealth Bank.
 33. Intelie Inc.
+34. ByteDance.
+34. TikTok.
 
 Damn.
