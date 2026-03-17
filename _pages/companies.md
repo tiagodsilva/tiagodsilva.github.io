@@ -21,7 +21,7 @@ This page, for future reference and for anyone interested, enumerates the offers
 
 The list below contains the companies I have applied to, but for which I did not receive an offer.
 I am rarely invited for interviews.
-When I do, it often happens that the position I am applying for simply ceases to exist (i.e., the position is "put on hold"). 
+When I do, it often happens that the position I am applying for simply ceases to exist (i.e., the position is "put on hold").
 For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple applications.
 
 1. ELLIS Finland Postdoc call.
