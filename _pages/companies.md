@@ -64,7 +64,7 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 37. Goldman Sachs.
 38. Prior Labs.
 39. G-Research.
-40. Millenium.
+40. Millennium.
 41. EBANX.
 42. BCG.
 
