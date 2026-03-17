@@ -7,7 +7,7 @@ nav: false
 ---
 
 Upon completing my Bachelor's and, soon after, defending my PhD, I have applied to countless positions as a researcher, data scientist, and engineer, from both well-known and niche companies.
-This page, for future reference and for anyone interested (e.g., undergrad students from FGV), enumerates the offers and rejections I encountereted along the way.
+This page, for future reference and for anyone interested, enumerates the offers and rejections I encountereted along the way.
 
 **Offers.**
 
@@ -19,7 +19,9 @@ This page, for future reference and for anyone interested (e.g., undergrad stude
 
 **Rejections.**
 
-Often, I simply give up on the application if I have the feeling that the outcome of the---often long---interview process will result in a negative response from the company.
+The list below contains the companies I have applied to, but for which I did not receive an offer.
+I am rarely invited for interviews.
+When I do, it often happens that the position I am applying for simply ceases to exist (i.e., the position was "put on hold"). 
 For the larger companies (e.g., Google, Nubank, etc.), I applied multiple times.
 
 1. ELLIS Finland Postdoc call.
@@ -54,5 +56,6 @@ For the larger companies (e.g., Google, Nubank, etc.), I applied multiple times.
 30. Data.bet.
 31. willbank.
 32. Commonwealth Bank.
+33. Intelie Inc.
 
 Damn.
