@@ -1,12 +1,12 @@
 ---
 layout: page
-title: companies
+title: Curriculum Mortis
 
 permalink: /companies/
 nav: false
 ---
 
-Upon completing my Bachelor's and, soon after, defending my PhD, I have applied to countless positions as a researcher, data scientist, and engineer, from both well-known and niche companies. 
+Upon completing my Bachelor's and, soon after, defending my PhD, I have applied to countless positions as a researcher, data scientist, and engineer, from both well-known and niche companies.
 This page, for future reference and for anyone interested (e.g., undergrad students from FGV), enumerates the offers and rejections I encountereted along the way.
 
 **Offers.**
@@ -15,12 +15,12 @@ This page, for future reference and for anyone interested (e.g., undergrad stude
 2. Brandlovers (internal referral).
 3. Proffer (internal referral).
 4. MBZUAI (internal referral).
-3. Fundação CERTI (cold application).
+5. Fundação CERTI (cold application).
 
 **Rejections.**
 
-Often, I simply give up on the application if I have the feeling that the outcome of the---often long---interview process will result in a negative response from the company. 
-For the larger companies (e.g., Google, Nubank, etc.), I applied multiple times. 
+Often, I simply give up on the application if I have the feeling that the outcome of the---often long---interview process will result in a negative response from the company.
+For the larger companies (e.g., Google, Nubank, etc.), I applied multiple times.
 
 1. ELLIS Finland Postdoc call.
 2. Google.
@@ -33,18 +33,18 @@ For the larger companies (e.g., Google, Nubank, etc.), I applied multiple times.
 9. Nubank.
 10. McKinsey.
 11. IPM Sistemas.
-12. Fundação CERTI (I applied multiple times). 
-13. Wise Capital. 
+12. Fundação CERTI (I applied multiple times).
+13. Wise Capital.
 14. Amazon.
 15. Ambev.
-16. Magazine Luiza. 
-17. Quinto Andar. 
-18. Insider Store. 
-19. Embraer. 
-20. Itaú. 
+16. Magazine Luiza.
+17. Quinto Andar.
+18. Insider Store.
+19. Embraer.
+20. Itaú.
 21. Datarisk.
 22. Globo.
-23. Sportsradar. 
+23. Sportsradar.
 24. IBM.
 25. Pinterest.
 26. Wildlife Studios.
