@@ -35,7 +35,7 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 9. Nubank.
 10. McKinsey.
 11. IPM Sistemas.
-12. Fundação CERTI (I applied multiple times).
+12. Fundação CERTI.
 13. Wise Capital.
 14. Amazon.
 15. Ambev.
