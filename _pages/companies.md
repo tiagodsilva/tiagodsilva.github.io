@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Mortis
 
-permalink: /companies/
+permalink: /companies-8v2-m9x-private-44/
 nav: false
 ---
 
