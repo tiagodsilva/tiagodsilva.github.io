@@ -7,7 +7,7 @@ nav: false
 ---
 
 Upon completing my Bachelor's and, soon after, defending my PhD, I have applied to countless positions as a researcher, data scientist, and engineer, from both well-known and niche companies.
-This page, for future reference and for anyone interested, enumerates the offers and rejections I encountereted along the way.
+This page, for future reference and for anyone interested, enumerates the offers and rejections I encountered along the way.
 
 **Offers.**
 
