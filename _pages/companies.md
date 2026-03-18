@@ -67,5 +67,9 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 40. Millennium.
 41. EBANX.
 42. BCG.
+43. Mercado Livre.
+44. Oracle.
+45. Stone.
+46. DHARMA-AI.
 
 Damn.
