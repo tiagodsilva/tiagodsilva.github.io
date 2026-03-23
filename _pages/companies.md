@@ -72,5 +72,6 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 45. Stone.
 46. DHARMA-AI.
 47. First Abu Dhabi Bank.
+48. Bloomberg.
 
 Damn.
