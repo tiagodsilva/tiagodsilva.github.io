@@ -18,8 +18,9 @@ If one fails at achieving an acceptable level at any of these metrics, their car
 
 On top of that, with the sole exception of the occasional project update meetings with my supervisor, I have not had any meaningful social interactions in the past six months.
 And, as Chris McCandless wrote prior to passing away in an abandoned van in Alaska, "Happiness is only real when shared".
+
 To make matters worse, I am also haunted by a perennial job insecurity due to the fixed-term nature of the contracts I hold.
-Ironically, I have therefore landed in an extremely unsupportive community while working under a substantial amount of pressure.
+Ironically, I have landed in an extremely unsupportive community while working under a substantial amount of pressure.
 Alas, I am accutely aware that I am better off than most humans; I have access to shelther and food for as long as I need, and I write these notes on a modern MacBook while listening to Spotify Premium.
 As Fezzik wisely said in William Goldman's The Princess Bride, "The pit is bottomless".
 
