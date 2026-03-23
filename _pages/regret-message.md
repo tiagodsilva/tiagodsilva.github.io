@@ -8,7 +8,7 @@ nav: false
 
 I did the best I could. 
 Since my early years, I have sought after the hardest challenges I could find, let it be finishing a videogame on the highest difficulty, acing knowledge olympiads, or writing papers for top-tier venues in my field.
-I thought that, in thriving through these challenges, I would find peace in an accepting, supportive community of likely-minded people, perhaps both.
+I thought that, in thriving through these challenges, I would find peace in an accepting, supportive community of likely-minded people.
 I could not be more wrong.
 In fact, I ended up surrounded by highly competitive assholes which proudly brag about otherwise meaningless numbers. 
 "I was accepted to a Summer School", they first say, and immediately add, "which has only a 6% acceptance rate".
