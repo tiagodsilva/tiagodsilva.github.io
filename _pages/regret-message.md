@@ -16,7 +16,7 @@ In fact, I ended up surrounded by highly competitive assholes which proudly brag
 Later in life, I have been inquired about my h- and i10- and h5- and etc.- indices, many of which I have not heard about, or how much money I got from funding agencies.
 If one fails at achieving an acceptable level at any of these metrics, their career withers and their professional opportunities vanish.
 
-On top of that, with the sole exception of the occasional project update meetings with my supervisor (and the supermarket's cashier), I have not had any meaningful social interactions in the past six months.
+On top of that, with the sole exception of the occasional project update meetings with my supervisor, I have not had any meaningful social interactions in the past six months.
 And, as Chris McCandless wrote prior to passing away in an abandoned van in Alaska, "Happiness is only real when shared".
 To make matters worse, I am also haunted by a perennial job insecurity due to the fixed-term nature of the contracts I hold.
 Contrarily to my objectives, I have therefore landed on an extremely unsupportive community while working under a substantial amount of pressure.
