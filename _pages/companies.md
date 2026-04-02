@@ -73,5 +73,6 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 46. DHARMA-AI.
 47. First Abu Dhabi Bank.
 48. Bloomberg.
+49. B3.
 
 Damn.
