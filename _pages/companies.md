@@ -74,5 +74,6 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 47. First Abu Dhabi Bank.
 48. Bloomberg.
 49. B3.
+50. O Boticário.
 
 Damn.
