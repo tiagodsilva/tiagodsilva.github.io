@@ -75,5 +75,6 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 48. Bloomberg.
 49. B3.
 50. O Boticário.
+51. Valence Labs.
 
 Damn.
