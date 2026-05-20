@@ -68,6 +68,9 @@ School of Applied Mathematics, Brazil \
 == Selected Publications
 #chiline()
 
++ *Path-dependent Discrete Amortized Inference* #h(1fr) ICML 2026 (spotlight) (*CORE A\**)
+  - #underline([da Silva, T.]), Malkin, N., Lahlou, S.
+  - TL;DR: We delineate the theoretical limitations of Markovian amortized samplers. To mitigate them, we augment existing methods with a deterministic, learnable latent dynamical system, improving learning convergence.
 
 + *When do GFlowNets learn the right distribution?* #h(1fr) ICLR 2025 (spotlight) (*CORE A\**)
   - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Garg, V., Kaski, S., Mesquita, D.
@@ -113,12 +116,14 @@ School of Applied Mathematics, Brazil \
 == Peer-reviewed research
 #chiline()
 
++ *Path-dependent Discrete Amortized Inference* #h(1fr) ICML 2026 (spotlight) (*CORE A\**)
+  - #underline([da Silva, T.]), Malkin, N., Lahlou, S.
+
++ *Avoid What You Know: Divergent Trajectory Balance for GFlowNets* #h(1fr) ICML 2026 (*CORE A\**)
+  - Dall'Antonia, P., #underline([da Silva, T.]), Csillag, D., Lahlou, S., Mesquita, D.
 
 + *Boosted GFlowNets: Improving Exploration via Sequential Learning* #h(1fr) AISTATS 2026 (*CORE A*)
   - Dall'Antonia, P., #underline([da Silva, T.]), de Souza, D. A., Mattos, C. L. C., and Mesquita, D.
-
-+ *Avoid What You Know: Divergent Trajectory Balance for GFlowNets* #h(1fr) DeLTa \@ ICLR 2026
-  - Dall'Antonia, P., #underline([da Silva, T.]), Csillag, D., Lahlou, S., and Mesquita, D.
 
 + *When do GFlowNets learn the right distribution?* #h(1fr) ICLR 2025 (spotlight) (*CORE A\**)
   - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Garg, V., Kaski, S., Mesquita, D.
