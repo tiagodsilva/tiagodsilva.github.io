@@ -17,7 +17,11 @@
 
 #set par(justify: true)
 
-#let chiline() = {v(-3pt); line(length: 100%); v(-5pt)}
+#let chiline() = {
+  v(-3pt)
+  line(length: 100%)
+  v(-5pt)
+}
 
 = Tiago da Silva
 
@@ -68,7 +72,7 @@ School of Applied Mathematics, Brazil \
 == Selected Publications
 #chiline()
 
-+ *Path-dependent Discrete Amortized Inference* #h(1fr) ICML 2026 (spotlight) (*CORE A\**)
++ *Path-dependent Discrete Amortized Inference* #h(1fr) ICML 2026 (oral) (*CORE A\**)
   - #underline([da Silva, T.]), Malkin, N., Lahlou, S.
   - TL;DR: We delineate the theoretical limitations of Markovian amortized samplers. To mitigate them, we augment existing methods with a deterministic, learnable latent dynamical system, improving learning convergence.
 
@@ -116,7 +120,10 @@ School of Applied Mathematics, Brazil \
 == Peer-reviewed research
 #chiline()
 
-+ *Path-dependent Discrete Amortized Inference* #h(1fr) ICML 2026 (spotlight) (*CORE A\**)
++ *Particle GFlowNets: Rethinking Generative Marginalization Models* #h(1fr) UAI 2026 (*CORE A*)
+  - #underline([da Silva, T.]), Mesquita, D., Lahlou, S.
+
++ *Path-dependent Discrete Amortized Inference* #h(1fr) ICML 2026 (oral) (*CORE A\**)
   - #underline([da Silva, T.]), Malkin, N., Lahlou, S.
 
 + *Avoid What You Know: Divergent Trajectory Balance for GFlowNets* #h(1fr) ICML 2026 (*CORE A\**)
@@ -190,23 +197,23 @@ I was awarded #underline[19 prizes in scientific competitions] during high schoo
 #chiline()
 
 *Rei do Pitaco*  #h(1fr) _Santa Catarina, Brazil_
-  - Data Scientist. #h(1fr) 2025/01 -- 2025/11
-    - Spearheaded the development of the company's bet builder, allowing customers to create customized bets.
-      I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
-    - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
-    // - Left to pursue and expand my academic interests overseas.
+- Data Scientist. #h(1fr) 2025/01 -- 2025/11
+  - Spearheaded the development of the company's bet builder, allowing customers to create customized bets.
+    I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
+  - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
+// - Left to pursue and expand my academic interests overseas.
 
 *Proffer* (Price Monitoring & Optimization startup) #h(1fr) _Rio de Janeiro, Brazil_
-  - Software Engineer. #h(1fr) 2024/04 -- 2025/09
-    - Extended the company's API to support larger workloads via asynchronous processing and caching.
-    - Led the adoption of Infrastructure as Code (IaC) using Terraform as a standard for the company's web scraping services.
-    // - Designed new features for easier integration with the customer's ERPs.
-    - Assisted in the migration of the company's infrastructure between cloud providers (AWS and Azure).
+- Software Engineer. #h(1fr) 2024/04 -- 2025/09
+  - Extended the company's API to support larger workloads via asynchronous processing and caching.
+  - Led the adoption of Infrastructure as Code (IaC) using Terraform as a standard for the company's web scraping services.
+  // - Designed new features for easier integration with the customer's ERPs.
+  - Assisted in the migration of the company's infrastructure between cloud providers (AWS and Azure).
 
 *Rei do Pitaco* (largest fantasy sports company in Brazil) #h(1fr) _Rio de Janeiro, Brazil_
-  - Data Science intern. #h(1fr) 2023/01 -- 2023/07
-    - Designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking).
-    - Deployed and upheld the created models within applications serving thousands of concurrent users.
+- Data Science intern. #h(1fr) 2023/01 -- 2023/07
+  - Designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking).
+  - Deployed and upheld the created models within applications serving thousands of concurrent users.
 
 == Skills
 #chiline()
