@@ -17,7 +17,11 @@
 
 #set par(justify: true)
 
-#let chiline() = {v(-3pt); line(length: 100%); v(-5pt)}
+#let chiline() = {
+  v(-3pt)
+  line(length: 100%)
+  v(-5pt)
+}
 
 = Tiago da Silva
 
@@ -52,30 +56,30 @@ School of Applied Mathematics, Getulio Vargas Foundation, Brazil \
 
 
 *Mohamed bin Zayed University of Artificial Intelligence* #h(1fr) _Abu Dhabi, UAE_
-  - Postdoctoral Associate under supervision of #link("https://lahlou.org/")[Salem Lahlou]. #h(1fr) 2025/10 -- ongoing
-    - I am working on probabilistic machine learning and Bayesian inference.
+- Postdoctoral Associate under supervision of #link("https://lahlou.org/")[Salem Lahlou]. #h(1fr) 2025/10 -- ongoing
+  - I am working on probabilistic machine learning and Bayesian inference.
 
 *Rei do Pitaco* (fastest-growing sports betting startup in Brazil) #h(1fr) _Santa Catarina, Brazil_
-  - Data Scientist \& Engineer. #h(1fr) 2025/01 -- 2025/11
-    - I spearheaded the development of the company's bet builder, allowing customers to create customized bets.
-      I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
-    - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
-    - Developed ETL pipelines with dbt and Airflow for near-real-time data processing and service monitoring.
-    // - Left to pursue and expand my academic interests overseas.
+- Data Scientist \& Engineer. #h(1fr) 2025/01 -- 2025/11
+  - I spearheaded the development of the company's bet builder, allowing customers to create customized bets.
+    I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
+  - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
+  - Developed ETL pipelines with dbt and Airflow for near-real-time data processing and service monitoring.
+// - Left to pursue and expand my academic interests overseas.
 
 *Aalto University* #h(1fr) _Espoo, Finland_
- - Visiting scholar under the supervision of #link("https://kaski-lab.com/")[Samuel Kaski] and #link("https://www.aalto.fi/en/people/vikas-kumar-garg")[Vikas Garg]. #h(1fr) 2024/07 -- 2024/10
+- Visiting scholar under the supervision of #link("https://kaski-lab.com/")[Samuel Kaski] and #link("https://www.aalto.fi/en/people/vikas-kumar-garg")[Vikas Garg]. #h(1fr) 2024/07 -- 2024/10
 
 *Proffer* (Price Monitoring & Optimization startup) #h(1fr) _Rio de Janeiro, Brazil_
-  - Software Engineer. #h(1fr) 2024/04 -- 2025/09
-    - I led the adoption of Infrastructure as Code (IaC) with Terraform as a standard for the company's web scraping services.
-    // - Designed new features for easier integration with the customer's ERPs.
-    - I assisted in the migration of the company's infrastructure between cloud providers (AWS and Azure).
+- Software Engineer. #h(1fr) 2024/04 -- 2025/09
+  - I led the adoption of Infrastructure as Code (IaC) with Terraform as a standard for the company's web scraping services.
+  // - Designed new features for easier integration with the customer's ERPs.
+  - I assisted in the migration of the company's infrastructure between cloud providers (AWS and Azure).
 
 *Rei do Pitaco* (largest fantasy sports company in Brazil) #h(1fr) _Rio de Janeiro, Brazil_
-  - Data Science intern. #h(1fr) 2023/01 -- 2023/07
-    - I designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking).
-    - I deployed and upheld the created models within applications serving thousands of concurrent users.
+- Data Science intern. #h(1fr) 2023/01 -- 2023/07
+  - I designed predictive models to define the opening lines of bets on the outcomes of sport events (bookmaking).
+  - I deployed and upheld the created models within applications serving thousands of concurrent users.
 
 == Selected Honors & Awards
 #chiline()
@@ -93,26 +97,29 @@ School of Applied Mathematics, Getulio Vargas Foundation, Brazil \
 == Selected Publications
 #chiline()
 
++ *Path-dependent Discrete Amortized Inference* #h(1fr) ICML 2026 (oral)
+  - #underline([da Silva, T.]), Whitammer, E., Lahlou, S.
+
 + *When do GFlowNets learn the right distribution?* #h(1fr) ICLR 2025 (spotlight)
   - #underline([da Silva, T.]), Silva, E., Alves, R., Souza, A., Garg, V., Kaski, S., Mesquita, D.
-  // - TL;DR: We show that a GFlowNet's learning objective may have an unattainable global minimum, which is undetectable by standard diagnostics. To address this, we propose the first tractable metric for assessing GFlowNets.
+// - TL;DR: We show that a GFlowNet's learning objective may have an unattainable global minimum, which is undetectable by standard diagnostics. To address this, we propose the first tractable metric for assessing GFlowNets.
 
 // + *Generalization and Distributed Learning of GFlowNets?* #h(1fr) ICLR 2025
 + *Generalization and Distributed Learning of GFlowNets* #h(1fr) ICLR 2025
   - #underline([da Silva, T.]), Souza, A., Rivasplata, O., Garg, V., Kaski, S., Mesquita D.
-  // - TL;DR: We devise the first PAC-Bayesian generalization bounds for GFlowNets. Inspired by them, we also introduce the first general-purpose distributed learning algorithm for GFlowNets, drastically accelerating training convergence.
+// - TL;DR: We devise the first PAC-Bayesian generalization bounds for GFlowNets. Inspired by them, we also introduce the first general-purpose distributed learning algorithm for GFlowNets, drastically accelerating training convergence.
 
 + *Streaming Bayes GFlowNets* #h(1fr) NeurIPS 2024
   - #underline([da Silva, T.]), Souza, D., and Mesquita, D.
-  // - TL;DR: We design a method to update GFlowNets trained on a streaming Bayesian posterior. Experiments show a drastic reduction in training time when compared against learning from scratch a model based on the entire dataset.
+// - TL;DR: We design a method to update GFlowNets trained on a streaming Bayesian posterior. Experiments show a drastic reduction in training time when compared against learning from scratch a model based on the entire dataset.
 
 + *On Divergence Measures for Training GFlowNets* #h(1fr) NeurIPS 2024
   - #underline([da Silva, T.]), Silva, E., and Mesquita, D.
-  // - TL;DR: We empirically show that the inefficacy of divergence-based objectives for GFlowNets is due to their large gradient variance. We then develop variance reduction techniques that significantly accelerate training convergence.
+// - TL;DR: We empirically show that the inefficacy of divergence-based objectives for GFlowNets is due to their large gradient variance. We then develop variance reduction techniques that significantly accelerate training convergence.
 
 + *Embarrassingly Parallel GFlowNets* #h(1fr) ICML 2024
   - #underline([da Silva, T.]), Souza, A., Carvalho, L., Kaski, S., and Mesquita, D.
-  // - TL;DR: We propose a divide-and-conquer approach to train a log-pool of GFlowNets in an embarrassingly parallel fashion. Results show a significant speed up in learning when the unnormalized target is expensive to evaluate.
+// - TL;DR: We propose a divide-and-conquer approach to train a log-pool of GFlowNets in an embarrassingly parallel fashion. Results show a significant speed up in learning when the unnormalized target is expensive to evaluate.
 
 == Languages
 #chiline()
