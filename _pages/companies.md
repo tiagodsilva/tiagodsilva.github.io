@@ -77,5 +77,6 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 50. O Boticário.
 51. Valence Labs.
 52. Instituto Eldorado.
+53. QuantoCo.
 
 Damn.
