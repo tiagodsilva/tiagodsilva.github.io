@@ -77,7 +77,7 @@ _Table 3:_ Prices of a staple-based diet.
 _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 
 When mixed with water, 200g of rice and 200g of lentils produce roughly 800g of food---at the cost of _2.49 AED_ per serving.
-Comparing against the 350g for AED 4.25 you get from the mix of sardine and fava beans, we are witnessing a gain of 3x to 4x in the per-gram cost of food---depending on how the prices of electricity and water required for your cooking are factored in.
+By comparing against the 350g for AED 4.25 you get from the mix of sardine and fava beans, we are witnessing a gain of 3x to 4x in the per-gram cost of food---depending on how the prices of electricity and water required for your cooking are factored in.
 
 "Hold up a minute!", you think, "Lunch is not the only meal I have during the day".
 To which I respond: you are right.
