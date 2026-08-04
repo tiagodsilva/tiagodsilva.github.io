@@ -87,7 +87,7 @@ The importance of such a choice cannot be stressed enough: by designing my meals
 To minimize costs, it is important these items are bought from _private brands_---oats shouldn't be from Quaker, and powdered milk shouldn't be from Nestlé.
 Having established this constraint, the prices are described in Table 4.
 
-_Table 3:_ Prices of oats, peanut butter, and powdered milk.
+_Table 4:_ Prices of oats, peanut butter, and powdered milk.
 
 | Item                  | Price     | Price per serving |
 | --------------------- | --------- | ----------------- |
