@@ -30,7 +30,7 @@ The former includes calcium, zinc, iron, vitamins, such as B12, C, A, etc., whil
 Some of these, such as vitamin B12 and calcium, are intrinsically tied to animal-based food; I therefore discard a purely vegan diet from the outset.
 
 The first question I thus ask is: to cook or not to cook?
-Should I withdraw from cooking, I will avoid spending money in basic cooking appliances, such as a pan and a stove and a---please---non-stick safe spoon, which require a relatively sizeable upfront investment.
+Should I withdraw from cooking, I will avoid spending money in basic cooking appliances, such as a pan and a stove and a---please---non-stick safe spoon, which may require a relatively sizeable upfront investment.
 Under these conditions, canned food is an economically viable alternative: as I write it, in Abu Dhabi, the following prices apply.
 
 _Table 1_: Prices for canned food.
