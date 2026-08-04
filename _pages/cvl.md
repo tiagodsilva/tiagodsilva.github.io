@@ -45,7 +45,7 @@ _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 
 I found that half a can of fava beans mixed with a can of sardine is enough for a meal---for a total price of AED 4.75 per serving.
 By consuming this once a day, I commit myself to a monthly cost of AED 142.5.
-Besides being environmentally wasteful---resulting in hundreds of used cans per year, many of which may not be recycled---such a diet falls short of being dollar-efficient, inflation-robust, or health.
+Besides being environmentally wasteful---resulting in hundreds of used cans per year, many of which may not be recycled---such a diet falls short of being dollar-efficient, inflation-robust, or healthy.
 Instead, I claim buying basic cookware is required for long-horizon minimization of food-related costs.
 As of today, the price of a non-stick pan, a non-stick safe spoon, and an eletrical stove are as follows.
 
