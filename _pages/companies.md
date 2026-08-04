@@ -82,6 +82,6 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 
 Damn.
 
-I was rejected from positions as a postdoc, Data Scientist, Research Scientist, Data Engineer, and Assistant Professor.
+I was rejected from several positions, including Postdoctoral Researcher, Data Scientist, Research Scientist, Data Engineer, Assistant Professor, Data Analyst, AI Engineer---you name it.
 If you are reading this, I will tell you the truth: I gave up.
 I am now focused on minimizing my cost of living to ensure my survival in the permanent underclass.
