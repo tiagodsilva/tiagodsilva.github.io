@@ -78,7 +78,7 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 51. Valence Labs.
 52. Instituto Eldorado.
 53. QuantoCo.
-54. University of Coimbra. 
+54. University of Coimbra.
 
 Damn.
 
