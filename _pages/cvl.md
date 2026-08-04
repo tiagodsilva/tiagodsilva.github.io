@@ -77,13 +77,13 @@ _Table 3:_ Prices of a staple-based diet.
 _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 
 When mixed with water, 200g of rice and 200g of lentils produce roughly 800g of food---at the cost of _2.49 AED_ per serving.
-Comparing against the 350g for AED 4.25 you get from the mix of sardine and fava beans, we are witnessing a gain of 3x to 4x in the cost per-gram cost of food---depending on how you factor in the price of electricity and water required for your cooking.
+Comparing against the 350g for AED 4.25 you get from the mix of sardine and fava beans, we are witnessing a gain of 3x to 4x in the per-gram cost of food---depending on how the prices of electricity and water required for your cooking are factored in.
 
 "Hold up a minute!", you think, "Lunch is not the only meal I have during the day".
 To which I respond: you are right.
 I propose extending the described diet with oats, peanut butter, and powdered milk.
-On top of being nutritious, they have all have _long shelf-life_.
-You read it exactly right: by designing my meals around rice, lentils, salt, garlic, oats, peanut butter, and powdered milk, I no longer need a _refrigerator_ or a _fridge_---neither of which can be effectively packed into a backpack.
+On top of being nutritious, they all have _long shelf-life_.
+The importance of such a choice cannot be stressed enough: by designing my meals around rice, lentils, salt, garlic, oats, peanut butter, and powdered milk, I no longer need a _refrigerator_ or a _fridge_---neither of which can be effectively packed into a backpack.
 To minimize costs, it is important these items are bought from _private brands_---oats shouldn't be from Quaker, and powdered milk shouldn't be from Nestlé.
 Having established this constraint, the prices are described in Table 4.
 
@@ -97,10 +97,10 @@ _Table 3:_ Prices of oats, peanut butter, and powdered milk.
 
 _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 
-This adds 3.39 AED to your daily costs.
+This adds 3.39 AED to my daily costs.
 Together with lunch, I have hence a total cost of 5.88 AED per day on food.
-By occasionally eating out, I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have tried during my investigations.
-Importantly, the approach I outlined can be applied to most places, as it is mostly based on commodities such as rice and lentils and oats, and is not restricted to Abu Dhabi.
+By occasionally eating out, I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
+In addition, I emphasize that the approach I outlined can be applied to most places, as it is mostly based on commodities such as rice and lentils and oats, and is not restricted to Abu Dhabi.
 
 In this scenario, after addressing the issue of eating cheaply, I now turn to the question: how to _live cheaply_?
 This is inherently tied to the affordability of the real estate market.
