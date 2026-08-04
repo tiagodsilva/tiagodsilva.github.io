@@ -102,7 +102,7 @@ Together with lunch, I have hence a total cost of 5.88 AED per day on food.
 By occasionally eating out (to meet the nutritional requirements not covered by Tables 1-4), I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
 In addition, I emphasize that the approach I outlined can be applied to most places, as it is mostly based on commodities such as rice and lentils and oats, and is not restricted to Abu Dhabi.
 
-In this scenario, after addressing the issue of eating cheaply, I now turn to the question: how to _live cheaply_?
+In this scenario, after addressing the issues of eating cheaply and healthly, I now turn to the question: how to _live cheaply_?
 This is inherently tied to the affordability of the real estate market.
 Should I rent through a lease contract? Should I rent through an informal agreement? Should I buy?
 I will elaborate on these questions in the next section.
