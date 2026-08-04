@@ -78,5 +78,10 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 51. Valence Labs.
 52. Instituto Eldorado.
 53. QuantoCo.
+54. University of Coimbra. 
 
 Damn.
+
+I was rejected from positions as a postdoc, Data Scientist, Research Scientist, Data Engineer, and Assistant Professor.
+If you are reading this, I will tell you the truth: I gave up. 
+I am now focused on minimizing my cost of living to ensure my survival in the permanent underclass.
