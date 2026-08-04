@@ -99,7 +99,7 @@ _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 
 This adds 3.39 AED to my daily costs.
 Together with lunch, I have hence a total cost of 5.88 AED per day on food.
-By occasionally eating out, I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
+By occasionally eating out (to meet the nutritional requirements not covered by Tables 1-4), I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
 In addition, I emphasize that the approach I outlined can be applied to most places, as it is mostly based on commodities such as rice and lentils and oats, and is not restricted to Abu Dhabi.
 
 In this scenario, after addressing the issue of eating cheaply, I now turn to the question: how to _live cheaply_?
