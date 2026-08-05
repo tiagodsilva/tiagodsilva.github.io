@@ -12,7 +12,7 @@ Since then, my investigation has branched out into the following directives.
 
 1. What is the cheapest diet I can have that is also nutritionally (mostly) sufficient?
 
-2. Given my Brazilian citizenship, which mid-sized city offers the minimal cost of living?
+2. Which mid-sized city offers the minimal cost of living?
 
 3. Should I even bother working out and, in this case, which exercises should I do?
 
