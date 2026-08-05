@@ -110,7 +110,7 @@ I will elaborate on these questions in the next section.
 ## 2. How to live cheaply?
 
 If you ever lived in any large city, you likely noticed that encountering afforable houses is as rare as finding a payphone---while both still exist, they are in the road to extinction.
-Regardless of the reasons for such lack of affordability, which presumably stems either from the limited availability of buildable land due to strict government regulations or from the deliberate scarcity of rental properties promoted by greedy investors and landlords, depending on who you are talking to, a person has to invariably decide whether to rent or to buy their own shelter.
+Regardless of the reasons for such lack of affordability, which stems either from the limited availability of buildable land due to strict government regulations or from the deliberate scarcity of rental properties promoted by greedy investors and landlords, depending on who you are talking to, a person has to invariably decide whether to rent or to buy their own shelter.
 
 Although the costs of such decisions are not always comparable, as rent prices may vary wildly even within the same building, I like to think that the rationally minimum price of a yearly lease contract for a property of value $$X$$ in a market economy with a risk-free annual interest rate of $$r$$ is $$X \cdot r$$.
 In this context, I will restrict my search for regions having the smallest average property value per squared meter, ignoring reported rent prices, and focus on Brazil, the country where I have citizenship.
