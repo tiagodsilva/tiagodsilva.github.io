@@ -106,3 +106,28 @@ In this scenario, after addressing the issues of eating cheaply and healthly, I 
 This is inherently tied to the affordability of the real estate market.
 Should I rent through a lease contract? Should I rent through an informal agreement? Should I buy?
 I will elaborate on these questions in the next section.
+
+## 2. How to live cheaply?
+
+If you lived in any large city, you likely noticed that encountering afforable houses is as rare as finding a payphone---while both still exist, they are in the road to extinction.
+Regardless of the reasons for such lack of affordability, which presumably stems either from the limited availability of buildable land due to strict government regulations or from the deliberate scarcity of rental properties promoted by greedy investors and landlords, depending on who you are talking to, a person has to invariably decide whether to rent or to buy their own shelter.
+Although the costs of such decisions are not always comparable, as rent prices may vary wildly even within the same building, I like to think that the rationally minimum price of a yearly lease contract for a property of value $X$ in a market economy with a risk-free annual interest rate of $r$ is $X \cdot r$.
+In this context, I will restrict my search for regions having the smallest average property value per squared meter, ignoring reported rent prices, and focus on Brazil, the country where I have citizenship.
+
+In addition, I will include the following convenience constraint: the city should be mid-sized, ensuring public services such as transportation and healthcare are generally available and property listings are available online, with a population of at least 100,000.
+Under these circumstances, the cheapest cities, in terms of property value per squared meter, in Brazil are listed next.
+
+_Table 5:_ Smallest property value per squared meter.
+
+| City                      | State             | Price / $\text{m}^{2}$     |
+| :------------------------ | :---------------- | :------------------------- |
+| **Pelotas**               | Rio Grande do Sul | **R$ 4,350 – R$ 4,500/m²** |
+| **Betim**                 | Minas Gerais      | **R$ 4,700 – R$ 5,100/m²** |
+| **São Vicente**           | São Paulo         | **R$ 4,750 – R$ 5,000/m²** |
+| **Santa Maria**           | Rio Grande do Sul | **R$ 4,900 – R$ 5,450/m²** |
+| **São José do Rio Preto** | São Paulo         | **R$ 4,850 – R$ 6,050/m²** |
+| **Contagem**              | Minas Gerais      | **R$ 5,050 – R$ 6,200/m²** |
+| **Canoas**                | Rio Grande do Sul | **R$ 5,050 – R$ 5,950/m²** |
+| **Ribeirão Preto**        | São Paulo         | **R$ 5,200 – R$ 6,300/m²** |
+
+_Source: Índice FipeZAP._
