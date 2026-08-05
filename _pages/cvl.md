@@ -6,6 +6,17 @@ permalink: /cvl/
 nav: false
 ---
 
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://jsdelivr.net"></script>
+
 Have you ever asked yourself what is the bare minimum you can spend monthly to function properly?
 I did.
 Since then, my investigation has branched out into the following directives.
@@ -119,15 +130,15 @@ Under these circumstances, the cheapest cities---in terms of property value per 
 
 _Table 5:_ Smallest property value per squared meter.
 
-| City                      | State             | Price / $\text{m}^{2}$     |
+| City                      | State             | Price / $\text{m}^{2}$, in R\$     |
 | :------------------------ | :---------------- | :------------------------- |
-| **Pelotas**               | Rio Grande do Sul | **R$ 4,350 – R$ 4,500/m²** |
-| **Betim**                 | Minas Gerais      | **R$ 4,700 – R$ 5,100/m²** |
-| **São Vicente**           | São Paulo         | **R$ 4,750 – R$ 5,000/m²** |
-| **Santa Maria**           | Rio Grande do Sul | **R$ 4,900 – R$ 5,450/m²** |
-| **São José do Rio Preto** | São Paulo         | **R$ 4,850 – R$ 6,050/m²** |
-| **Contagem**              | Minas Gerais      | **R$ 5,050 – R$ 6,200/m²** |
-| **Canoas**                | Rio Grande do Sul | **R$ 5,050 – R$ 5,950/m²** |
-| **Ribeirão Preto**        | São Paulo         | **R$ 5,200 – R$ 6,300/m²** |
+| Pelotas | Rio Grande do Sul | 4,350 – 4,500 |
+| Betim | Minas Gerais | 4,700 – 5,100 |
+| São Vicente | São Paulo | 4,750 – 5,000 |
+| Santa Maria | Rio Grande do Sul | 4,900 – 5,450 |
+| São José do Rio Preto | São Paulo | 4,850 – 6,050 |
+| Contagem | Minas Gerais | 5,050 – 6,200 |
+| Canoas | Rio Grande do Sul | 5,050 – 5,950 |
+| Ribeirão Preto | São Paulo | 5,200 – 6,300 |
 
 _Source: Índice FipeZAP, August of 2026._
