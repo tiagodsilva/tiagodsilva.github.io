@@ -128,7 +128,7 @@ In this context, I will restrict my search for regions having the smallest avera
 In addition, I will include the following convenience constraint: the city should be mid-sized, ensuring public services such as transportation and healthcare are generally available and property listings are available online, with a population of at least 100,000.
 Under these circumstances, the cheapest cities---in terms of property value per squared meter---are listed next.
 
-_Table 5:_ Smallest property value per squared meter.
+_Table 5:_ Cities with smallest property value per squared meter.
 
 | City                  | State             | Price / $\text{m}^{2}$, in R\$ |
 | :-------------------- | :---------------- | :----------------------------- |
