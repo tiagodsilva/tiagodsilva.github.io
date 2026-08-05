@@ -79,9 +79,9 @@ _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 When mixed with water, 200g of rice and 200g of lentils produce roughly 800g of food---at the cost of _2.49 AED_ per serving.
 By comparing against the 350g for AED 4.25 you get from the mix of sardine and fava beans, we are witnessing a gain of 3x to 4x in the per-gram cost of food---depending on how the prices of electricity and water required for your cooking are factored in.
 
-"Hold up a minute!", you think, "Lunch is not the only meal I have during the day".
-To which I respond: you are right.
-I propose extending the described diet with oats, peanut butter, and powdered milk.
+"Hold up a minute!", you object, "Lunch is not the only meal I have during the day".
+You are right.
+I propose complementing the described diet with oats, peanut butter, and powdered milk.
 On top of being nutritious, they all have _long shelf-life_.
 The importance of such a choice cannot be stressed enough: by designing my meals around rice, lentils, salt, garlic, oats, peanut butter, and powdered milk, I no longer need a _refrigerator_ or a _fridge_---neither of which can be effectively packed into a backpack.
 To minimize costs, it is important these items are bought from _private brands_---oats shouldn't be from Quaker, and powdered milk shouldn't be from Nestlé.
@@ -99,7 +99,7 @@ _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 
 This adds 3.39 AED to my daily costs.
 Together with lunch, I have hence a total cost of 5.88 AED per day on food.
-By occasionally eating out (to meet the nutritional requirements not covered by Tables 1-4), I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
+By occasionally eating out to meet the nutritional requirements not covered by Tables 1-4, I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
 In addition, I emphasize that the approach I outlined can be applied to most places, as it is mostly based on commodities such as rice and lentils and oats, and is not restricted to Abu Dhabi.
 
 In this scenario, after addressing the issues of eating cheaply and healthly, I now turn to the question: how to _live cheaply_?
