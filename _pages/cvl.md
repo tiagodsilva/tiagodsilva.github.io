@@ -14,7 +14,7 @@ Since then, my investigation has branched out into the following directives.
 
 2. Which mid-sized city offers the minimal cost of living?
 
-3. Should I even bother working out and, in this case, which exercises should I do?
+3. Should I even bother working out and, if this is the case, which exercises should I do?
 
 4. Can everything I own fit into a single backpack?
 
