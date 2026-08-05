@@ -120,14 +120,14 @@ Under these circumstances, the cheapest cities---in terms of property value per 
 _Table 5:_ Cities with the smallest property value per squared meter.
 
 | City                  | State             | Price / $$\text{m}^{2}$$, in R\$ |
-| :-------------------- | :---------------- | :----------------------------- |
-| Pelotas               | Rio Grande do Sul | 4,350 – 4,500                  |
-| Betim                 | Minas Gerais      | 4,700 – 5,100                  |
-| São Vicente           | São Paulo         | 4,750 – 5,000                  |
-| Santa Maria           | Rio Grande do Sul | 4,900 – 5,450                  |
-| São José do Rio Preto | São Paulo         | 4,850 – 6,050                  |
-| Contagem              | Minas Gerais      | 5,050 – 6,200                  |
-| Canoas                | Rio Grande do Sul | 5,050 – 5,950                  |
-| Ribeirão Preto        | São Paulo         | 5,200 – 6,300                  |
+| :-------------------- | :---------------- | :------------------------------- |
+| Pelotas               | Rio Grande do Sul | 4,350 – 4,500                    |
+| Betim                 | Minas Gerais      | 4,700 – 5,100                    |
+| São Vicente           | São Paulo         | 4,750 – 5,000                    |
+| Santa Maria           | Rio Grande do Sul | 4,900 – 5,450                    |
+| São José do Rio Preto | São Paulo         | 4,850 – 6,050                    |
+| Contagem              | Minas Gerais      | 5,050 – 6,200                    |
+| Canoas                | Rio Grande do Sul | 5,050 – 5,950                    |
+| Ribeirão Preto        | São Paulo         | 5,200 – 6,300                    |
 
 _Source: Índice FipeZAP, August of 2026._
