@@ -15,7 +15,7 @@ nav: false
     }
   };
 </script>
-<script id="MathJax-script" async src="https://jsdelivr.net"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 Have you ever asked yourself what is the bare minimum you can spend monthly to function properly?
 I did.
@@ -122,7 +122,7 @@ I will elaborate on these questions in the next section.
 
 If you lived in any large city, you likely noticed that encountering afforable houses is as rare as finding a payphone---while both still exist, they are in the road to extinction.
 Regardless of the reasons for such lack of affordability, which presumably stems either from the limited availability of buildable land due to strict government regulations or from the deliberate scarcity of rental properties promoted by greedy investors and landlords, depending on who you are talking to, a person has to invariably decide whether to rent or to buy their own shelter.
-Although the costs of such decisions are not always comparable, as rent prices may vary wildly even within the same building, I like to think that the rationally minimum price of a yearly lease contract for a property of value $X$ in a market economy with a risk-free annual interest rate of $r$ is $X \cdot r$.
+Although the costs of such decisions are not always comparable, as rent prices may vary wildly even within the same building, I like to think that the rationally minimum price of a yearly lease contract for a property of value \(X\) in a market economy with a risk-free annual interest rate of \(r\) is \(X \cdot r\).
 In this context, I will restrict my search for regions having the smallest average property value per squared meter, ignoring reported rent prices, and focus on Brazil, the country where I have citizenship.
 
 In addition, I will include the following convenience constraint: the city should be mid-sized, ensuring public services such as transportation and healthcare are generally available and property listings are available online, with a population of at least 100,000.
@@ -130,15 +130,15 @@ Under these circumstances, the cheapest cities---in terms of property value per 
 
 _Table 5:_ Cities with the smallest property value per squared meter.
 
-| City                  | State             | Price / $\text{m}^{2}$, in R\$ |
-| :-------------------- | :---------------- | :----------------------------- |
-| Pelotas               | Rio Grande do Sul | 4,350 – 4,500                  |
-| Betim                 | Minas Gerais      | 4,700 – 5,100                  |
-| São Vicente           | São Paulo         | 4,750 – 5,000                  |
-| Santa Maria           | Rio Grande do Sul | 4,900 – 5,450                  |
-| São José do Rio Preto | São Paulo         | 4,850 – 6,050                  |
-| Contagem              | Minas Gerais      | 5,050 – 6,200                  |
-| Canoas                | Rio Grande do Sul | 5,050 – 5,950                  |
-| Ribeirão Preto        | São Paulo         | 5,200 – 6,300                  |
+| City                  | State             | Price / \\(\\text{m}^{2}\\), in R\$ |
+| :-------------------- | :---------------- | :------------------------------- |
+| Pelotas               | Rio Grande do Sul | 4,350 – 4,500                    |
+| Betim                 | Minas Gerais      | 4,700 – 5,100                    |
+| São Vicente           | São Paulo         | 4,750 – 5,000                    |
+| Santa Maria           | Rio Grande do Sul | 4,900 – 5,450                    |
+| São José do Rio Preto | São Paulo         | 4,850 – 6,050                    |
+| Contagem              | Minas Gerais      | 5,050 – 6,200                    |
+| Canoas                | Rio Grande do Sul | 5,050 – 5,950                    |
+| Ribeirão Preto        | São Paulo         | 5,200 – 6,300                    |
 
 _Source: Índice FipeZAP, August of 2026._
