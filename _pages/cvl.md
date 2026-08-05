@@ -115,7 +115,7 @@ Although the costs of such decisions are not always comparable, as rent prices m
 In this context, I will restrict my search for regions having the smallest average property value per squared meter, ignoring reported rent prices, and focus on Brazil, the country where I have citizenship.
 
 In addition, I will include the following convenience constraint: the city should be mid-sized, ensuring public services such as transportation and healthcare are generally available and property listings are available online, with a population of at least 100,000.
-Under these circumstances, the cheapest cities, in terms of property value per squared meter, in Brazil are listed next.
+Under these circumstances, the cheapest cities---in terms of property value per squared meter---are listed next.
 
 _Table 5:_ Smallest property value per squared meter.
 
@@ -130,4 +130,4 @@ _Table 5:_ Smallest property value per squared meter.
 | **Canoas**                | Rio Grande do Sul | **R$ 5,050 – R$ 5,950/m²** |
 | **Ribeirão Preto**        | São Paulo         | **R$ 5,200 – R$ 6,300/m²** |
 
-_Source: Índice FipeZAP._
+_Source: Índice FipeZAP, August of 2026._
