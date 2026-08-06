@@ -6,7 +6,7 @@ permalink: /cvl/
 nav: false
 ---
 
-In June of 1889, Andrew Carnegie wrote an essay titled "The Gospel of Wealth", claiming his enormous wealth was the outcome of an efficient market allocating massive resources to the most capable and wise.
+In June of 1889, Andrew Carnegie wrote an essay titled "The Gospel of Wealth", claiming his enormous wealth was the outcome of an efficient market allocating proportionate resources to the most capable and wise.
 Self-serving and fallacious as it sounds, Carnegie's words still echo in modern techno-optimist manifestos that, promoted by an increasingly powerful elite, promise an ever-approaching period of over-abundance---as long as their _future-building ambitions_ are not disrupted by _progress-stifling_ regulations developed by _vetocratic_ governments.
 
 The truth, however, is that most people barely scrape by most of the time, a scenario that is unlikely to change in the near future.
