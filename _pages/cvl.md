@@ -136,6 +136,7 @@ _Source: Índice FipeZAP, August of 2026._
 Table 5 highlights the best candidates are distributed across the states of Rio Grande do Sul, São Paulo, and Minas Gerais.
 Interestingly, in addition to their climatic and cultural diversity, some of these cities host campuses from well-established public universities.
 As regular employers of temporary professors, this points to the existence of a potential regional market amenable to those holding a doctoral degree.
+
 More importantly, universities are the natural habitat of students---which, as I can confidently state by being a former and occasional student myself, are often searching for a cheaper lifestyle.
 Their presence is also suggestive of the existence of an informal rental market with less strict requirements for securing tenancy---e.g., bypassing income verification or a security deposity.
 
