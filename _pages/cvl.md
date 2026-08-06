@@ -10,8 +10,8 @@ In June of 1889, Andrew Carnegie wrote an essay titled "The Gospel of Wealth", c
 Self-serving and fallacious as it sounds, Carnegie's words still echo in modern techno-optimist manifestos that, promoted by an increasingly powerful elite, promise an ever-approaching period of over-abundance---as long as their _future-building ambitions_ are not disrupted by _progress-stifling_ regulations developed by _vetocratic_ governments.
 
 The truth, however, is that most people barely scrape by most of the time, a scenario that is unlikely to change in the near future.
-By observing this, I posed the question: what is the bare minimum I can spend monthly to function properly?
-Since then, my investigation has branched out into the following directives.
+Hence, I pose the question: what is the bare minimum I can spend monthly to function properly?
+While searching for an answer, my investigation has branched out into the following directives.
 
 1. What is the cheapest diet I can have that is also nutritionally (mostly) sufficient?
 
