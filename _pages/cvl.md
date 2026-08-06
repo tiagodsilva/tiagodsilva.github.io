@@ -11,7 +11,7 @@ Self-serving and fallacious as it sounds, Carnegie's words still echo in modern 
 
 The truth, however, is that most people barely scrape by most of the time, a scenario that is unlikely to change in the near future.
 Hence, I pose the question: what is the bare minimum I can spend monthly to function properly?
-While searching for an answer, my investigation has branched out into the following directives.
+While searching for a response, my investigation has branched out into the following directives.
 
 1. What is the cheapest diet I can have that is also nutritionally (mostly) sufficient?
 
