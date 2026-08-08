@@ -105,6 +105,7 @@ This adds 3 AED to my daily costs.
 Together with lunch, I have hence a total cost of 5.23 AED per day on food.
 By occasionally eating out to meet the nutritional requirements not covered by Tables 1-4, I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
 In addition, I emphasize that the approach I outlined can be applied to most places, as it is mostly based on commodities such as rice and lentils and oats, and is not restricted to Abu Dhabi.
+Correspondingly, it also completely bypasses the need for owning a knife, which---for being considered as a weapon by certain mass transportation companies---is an item of constrained portability.
 
 In this scenario, after addressing the issues of eating cheaply and healthly, I now turn to the question: how to _live cheaply_?
 This is inherently tied to the affordability of the real estate market.
@@ -144,8 +145,14 @@ As regular employers of temporary professors, this points to the existence of a 
 More importantly, universities are the natural habitat of students---which, as I can confidently state by being a former and occasional student myself, are often searching for a cheaper lifestyle.
 Their presence is also suggestive of the existence of an informal rental market with less strict requirements for securing tenancy---e.g., bypassing income verification or a security deposity.
 
-<!--
-[To be continued]
-In this scenario, I return to my initial inquiry: to rent or to buy?
-The first thing to notice is that, in both cases, I would be committing monthly maintenance fee ranging from R\$ 200 to R\$ 500 for as long as I either own or occupy the property.
--->
+This brings me back to my initial inquiry: to rent or to buy?
+I am concerned I will not provide a definitive instance in this page.
+Both buying and renting commonly invite financial scrutiny upon myself by adversarial third-parties---e.g., in case a bank loan is needed---demanding monthly income to be as large as two to three times the value of monthly installments.
+Should this demand be unmet, an informal lease agreement becomes the uniquely viable alternative.
+In Brazil, I found [WebQuarto](https://www.webquarto.com.br/) to have a decent offering of budget rooms.
+
+Uncircumstantially, monthly payments from R\$ 300 to R\$ 500 for maintenance fees and taxes are the cheapest I have found throughout my short life and quick Googling.
+The value of rent for small apartments in the referred cities can often be two to three times larger than that.
+This adds between R\$ 500 and R\$ 1500 to the floor I established in the prior section.
+However, a deeper investigation is warranted.
+Importantly, in case external forces restrict me to stay in more expensive cities, a similar search should be carried out at the neighborhood-level, considering transportation costs and safety---as being robbed or forced through unwanted medical bills can be drastically more expensive than any of the costs I hitherto laid out.
