@@ -136,7 +136,7 @@ _Table 5:_ Cities with the smallest property value per squared meter.
 | Canoas                | Rio Grande do Sul | 5,050 – 5,950                    |
 | Ribeirão Preto        | São Paulo         | 5,200 – 6,300                    |
 
-_Source: Índice FipeZAP, August of 2026._
+_Source: [Gemini](https://gemini.google.com)-fetched data from Índice FipeZAP, August of 2026._
 
 Table 5 highlights the best candidates are distributed across the states of Rio Grande do Sul, São Paulo, and Minas Gerais.
 Interestingly, in addition to their climatic and cultural diversity, some of these cities host campuses from well-established public universities.
