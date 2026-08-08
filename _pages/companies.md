@@ -80,12 +80,12 @@ For larger companies (e.g., Google, Microsoft, etc.), I submitted multiple appli
 53. QuantoCo.
 54. University of Coimbra.
 55. Kunumi.
-56. LawZero. 
-57. Basis Research. 
+56. LawZero.
+57. Basis Research.
 
 Damn.
 
-I was rejected from several positions, including Postdoctoral Researcher, Data Scientist, Research Scientist, Data Engineer, Assistant Professor, Data Analyst, AI Engineer---you name it. 
+I was rejected from several positions, including Postdoctoral Researcher, Data Scientist, Research Scientist, Data Engineer, Assistant Professor, Data Analyst, AI Engineer---you name it.
 If I don't hear back from a company in a month, I assume the position was either closed, filled, or that my application has been silently discarded.
 I also often skip interviews scheduled in unreasonable times (e.g., due to timezone differences).
 
