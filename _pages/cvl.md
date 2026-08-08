@@ -151,7 +151,7 @@ Both buying and renting commonly invite financial scrutiny upon myself by advers
 Should this demand be unmet, an informal lease agreement becomes the uniquely viable alternative.
 In Brazil, I found [WebQuarto](https://www.webquarto.com.br/) to have a decent offering of budget rooms.
 
-Uncircumstantially, monthly payments from R\$ 300 to R\$ 500 for maintenance fees and taxes are the cheapest I have found throughout my short life and quick Googling.
+Uncircumstantially, monthly payments from R\$ 300 to R\$ 500 for maintenance fees and taxes and basic hygiene are the cheapest I have found throughout my short life and quick Googling.
 The value of rent for small apartments in the referred cities can often be two to three times larger than that.
 This adds between R\$ 500 and R\$ 1500 to the floor I established in the prior section.
 However, a deeper investigation is warranted.
