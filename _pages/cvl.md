@@ -155,4 +155,4 @@ Uncircumstantially, monthly payments from R\$ 300 to R\$ 500 for maintenance fee
 The value of rent for small apartments in the referred cities can often be two to three times larger than that.
 This adds between R\$ 500 and R\$ 1500 to the floor I established in the prior section.
 However, a deeper investigation is warranted.
-Importantly, in case external forces restrict me to stay in more expensive cities, a similar search should be carried out at the neighborhood-level, considering transportation costs and safety---as being robbed or forced through unwanted medical bills can be drastically more expensive than any of the costs I hitherto laid out.
+Importantly, in case external forces restrict me to stay in more expensive cities, a similar search should be carried out at the neighborhood-level, considering transportation costs and safety---as being robbed or forced through unwanted medical bills can be drastically more expensive than any of the costs I until now laid out.
