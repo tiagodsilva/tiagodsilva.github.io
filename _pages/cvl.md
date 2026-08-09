@@ -158,11 +158,12 @@ However, a deeper investigation is warranted.
 Importantly, in case external forces restrict me to stay in more expensive cities, a similar search should be carried out at the neighborhood-level, considering transportation costs and safety---as being robbed or forced through unwanted medical bills can be drastically more expensive than any of the costs I until now laid out.
 
 In speaking of medical bills, I think it is clear for anyone who has been alive long enough and has not been stripped of their senses---either forcefully or voluntarily---that we inhabit an increasingly hot planet.
-(I still hear people calling this a consequence of Climate "Change"; however, I believe this is a strong euphemism, as a _change_ can be beneficial or detrimental, and I would instead we call it for what it is: Climate Catastrophe or Climate Crisis).
+(An obvious consequence of Climate "Change" or, as we may also call it, Climate Catastrophe or Climate Crisis, as a _change_ can be beneficial or detrimental).
 To survive under extreme weather is costly, often requiring reliance upon fans or air conditioning (AC).
+
 Under this condition, I have been considering two cost-effective alternatives to both these equipments.
 The first one is to stay as much as possible in public, government-sponsored climate-controlled spaces.
-The second one is, while staying at home, to move my equipments closer to the entrance door, ensuring I maximally enjoy both the building's and the neighbors' ACs while avoiding using that of my own premise; in fact, I have also considered occasionally leaving the door open, although I have not yet implemented such strategy.
+The second one is, while staying at home, to move my equipments closer to the entrance door, ensuring I maximally enjoy both the building's and the neighbors' ACs while avoiding using that of my own premise; in fact, I also considered occasionally leaving the door open, although I have not followed through with such approach.
 Importantly, as I write this, Google tells me the temperature outside is $$46^{\circ} C$$; I thus emphasize the described survival techniques do not stem from vague speculation but rather from lived experience.
 
 Having said that---and knowing that I left several relevant aspects of the concepts I am describing either unexplored or insufficiently detailed---I wrap up this section.
