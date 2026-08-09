@@ -169,4 +169,4 @@ Having said that---and knowing that I left several relevant aspects of the conce
 I now turn to the more suppositional part of my investigation.
 The central issue I address in the remainder of this text is how to minimize the impact of certain exogenous events, such as the loss of a job or a sudden rent spike, on my personal life.
 The answer to this, in my opinion, is mobility: I should be ready to leave any place at a moment's notice as cheaply as possible.
-This requires both physical ableness and owning strictly portable items, which I respectively describe in the following sections.
+This requires both physical ableness and owning strictly portable items, which I respectively describe in the next sections.
