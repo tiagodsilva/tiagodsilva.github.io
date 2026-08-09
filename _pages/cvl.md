@@ -156,3 +156,17 @@ The value of rent for small apartments in the referred cities can often be two t
 This adds between R\$ 500 and R\$ 1500 to the floor I established in the prior section.
 However, a deeper investigation is warranted.
 Importantly, in case external forces restrict me to stay in more expensive cities, a similar search should be carried out at the neighborhood-level, considering transportation costs and safety---as being robbed or forced through unwanted medical bills can be drastically more expensive than any of the costs I until now laid out.
+
+In speaking of medical bills, I think it is clear for anyone who has been alive long enough and has not been stripped of their senses---either forcefully or voluntarily---that we inhabit an increasingly hot planet.
+(I still hear people calling this a consequence of Climate "Change"; however, I believe this is a strong euphemism, as a _change_ can be beneficial or detrimental, and I would instead we call it for what it is: Climate Catastrophe or Climate Crisis).
+To survive under extreme weather is costly, often requiring reliance upon fans or air conditioning (AC).
+Under this condition, I have been considering two cost-effective alternatives to both these equipments.
+The first one is to stay as much as possible in public, government-sponsored climate-controlled spaces.
+The second one is, while staying at home, to move my equipments closer to the entrance door, ensuring I maximally enjoy both the building's and the neighbors' ACs while avoiding using that of my own premise; in fact, I have also considered occasionally leaving the door open, although I have not yet implemented such strategy.
+Importantly, as I write this, Google tells me the temperature outside is $$46^{\circ} C$$; I thus emphasize the described survival techniques do not stem from vague speculation but rather from lived experience.
+
+Having said that---and knowing that I left several relevant aspects of the concepts I am describing either unexplored or insufficiently detailed---I wrap up this section.
+I now turn to the more suppositional part of my investigation.
+The central issue I address in the remainder of this text is how to minimize the impact of certain exogenous events, such as the loss of a job or a sudden rent spike, on my personal life.
+The answer to this, in my opinion, is mobility: I should be ready to leave any place at a moment's notice as cheaply as possible.
+This requires both physical ableness and owning strictly portable items, which I respectively describe in the following sections.
