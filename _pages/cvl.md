@@ -171,3 +171,15 @@ I now turn to the more suppositional part of my investigation.
 The central issue I address in the remainder of this text is how to minimize the impact of certain exogenous events, such as the loss of a job or a sudden rent spike, on my personal life.
 The answer to this, in my opinion, is mobility: I should be ready to leave any place at a moment's notice as cheaply as possible.
 This requires both physical ableness and owning strictly portable items, which I respectively describe in the next sections.
+
+## 3. Working out?
+
+If I know very little about most things, I know nothing about working out, so I will keep this section short.
+The reason I bring this up in this page is that I see my body as my only permanently illiquid, untradeable asset whose ownership cannot be tranferred in exchange for cash.
+It is also, save rare exceptions, irreplaceable.
+As a consequence, the body is something that should be cared for.
+The natural question that comes up in this scenario is whether a gym membership is required.
+With my objective being to minimize expenses, maximizing mobility, and reduce reliance upon unreliable agents, my answer to this question is clearly no.
+This does not mean I am against physical exercises; however, many bodyweight and aerobic exercises can be freely practiced anywhere, requiring very little instruction and no specialized tools.
+As Thoreau beautifully wrote, "bare feet are older than shoes, and he can make them do".
+And that is all I have to say about working out.
