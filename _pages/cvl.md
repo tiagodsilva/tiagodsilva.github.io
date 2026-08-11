@@ -206,7 +206,7 @@ That said, I may buy an affordable mattress in case its daily cost, conditional 
 Also, as long as basic hygienic measures are taken, bed frames are of no use.
 
 In summary, to answer the question I posted in the opening of this page: yes, I can fit everything I own into a backpack.
-As Labrouste, the protagonist in Houellebecq's novel, I found it impressive how little value most of the things I once had have on my current life.
+As Labrouste, the protagonist of the referred Houellebecq's novel, I found it impressive how little value most of the things I once had have on my current life.
 
 ## Conclusions
 
