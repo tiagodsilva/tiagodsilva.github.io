@@ -214,5 +214,6 @@ As the protagonist in Houellebecq's novel, it is remarkable to me how little val
 The primary conclusion I draw from my investigation is that I can effectively reduce my cost of living to sustainably low values by restricting my diet to be mostly composed of commodities and having the willingness to move away from overpriced real estate markets.
 I reaffirm, however, that this is not meant as a normative prescription for a rational lifestyle under strictly financial considerations.
 Instead, it should be understood as a reasonable baseline for a decently enjoyable life that is also robust to plausibly adverse circumstances.
-In conclusion, the main objection one might raise is that my description severely underestimates long-term healthcare-related expenses.
+
+In closing, the main objection one might raise is that my description severely underestimates long-term healthcare-related expenses.
 To this I can only say that the most incurable of states happens to be the global minimizer of the optimization I have so far considered.
