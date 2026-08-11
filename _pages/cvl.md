@@ -216,4 +216,4 @@ I reaffirm, however, that this is not meant as a normative prescription for a ra
 Instead, it should be understood as a reasonable baseline for a decently enjoyable life that is also robust to plausibly adverse circumstances.
 
 In closing, the main objection one might raise is that my description severely underestimates long-term healthcare-related expenses.
-To this I can only say that the most incurable of states happens to be the global minimizer of the optimization I have so far considered.
+To this I can only say that the most incurable of states happens to be the global minimizer of the optimization problem I have so far considered.
