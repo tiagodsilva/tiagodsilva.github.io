@@ -190,5 +190,5 @@ And that is all I have to say about working out.
 
 When the time to leave my current accommodation arrives---either willingly or not, but chiefly in the latter case---I feel no greater displeasure than being forced into several round-trips to completely remove any sign of my existence from the place I had up to that moment called home.
 This frequently requires carrying my personal property with me, finding an agreeable recipient for sporadic donations, or a large enough trash bin for eventual disposals.
-After each iteration of such process, I have asked myself which measures can I implement to reduce the inconvenience of moving from a site to another.
+After each iteration of such process, I have asked myself which measures I can implement to reduce the inconvenience of moving from a site to another.
 The natural culmination of this repeated interrogation is to own only enough to fill a reasonably sized backpack.
