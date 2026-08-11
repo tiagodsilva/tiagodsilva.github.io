@@ -24,7 +24,7 @@ Since then, my investigation has branched out into the following directives.
 I will answer each of these in this page.
 However, I start with a warning: I am not aiming to preach a minimalist lifestyle.
 In fact, it is likely that most of the things I describe here are terribly wrong, serving simply as an unfiltered display of my ignorance about biology, finance, and everything in between.
-My motivation for writing this is primarily due to my recent [professional missteps](/companies-8v2-m9x-private-44/), my obsession with numbers, and my strong convinction that the only things that truly matter in life are having a roof over my head, food within my mouth, and books in front of my eyes.
+My motivation for writing this is primarily due to a feeling of [stark disillusionment](/companies-8v2-m9x-private-44/) fueled by my long-held convinction that the only things that truly matter in life are having a roof over my head, food within my mouth, and books in front of my eyes.
 
 ## 1. How to eat cheaply?
 
