@@ -205,7 +205,7 @@ In contrast to mattresses, pillows are cheap, light, and adequately fit into a 3
 That said, I may buy an affordable mattress in case its daily cost, conditional on how long I expect to use it, is no larger than a fraction of the daily food costs I outlined in Section 1.
 Also, as long as basic hygienic measures are taken, bed frames are of no use.
 
-These are all my considerations about consumption and storage.
+These are my convinctions about consumption and storage.
 And to answer the question I posted in the opening of this page: yes, I can fit everything I own into a backpack.
 As the protagonist in Houellebecq's novel, it is remarkable to me how little value most of the things I once had have on my life.
 
