@@ -192,3 +192,19 @@ When the time to leave my current accommodation arrives---either willingly or no
 This frequently requires carrying my personal property with me, finding an agreeable recipient for sporadic donations, or a large enough trash bin for eventual disposals.
 After each iteration of such process, I have asked myself which measures I can implement to reduce the inconvenience of moving from a site to another.
 The natural culmination of this repeated interrogation is to own only enough to fill a reasonably sized backpack.
+
+As such, prior to enumerating the items I deem essential, I must understand which backpacks will best serve me.
+In this regard, I found hiking variants to jointly provide convenient daily usability, spacious storage, and generous warranties.
+They can also be found in most major stores: Decathlon sells a 35-liter backpack with a 10 year warranty for 240 AED (Quechua MH100), and Amazon offers cheaper and correspondingly sized items from Chinese online brands.
+Given their negligible cost---when conditioned on their expected lifespan---I have opted for the former instead of the latter, which I observed to be capable of storing both the cookware of Section 2 and the few clothes and electronics I possess.
+Importantly, taken together, these items weigh less than 10kg and can support me in both hot, rainy, and (mildly) cold weathers.
+
+A limitation of this setup is not being compatible with a mattress.
+Having slept on the floor several times (often on top of a blanket or a sleeping bag), however, I regard it to be a sensible alternative to owning a human-sized bag of foam---as long as a pillow is available.
+In contrast to mattresses, pillows are cheap, light, and adequately fit into a 35 L backpack with the possible help of a vacuum storage bag.
+That said, I may buy an affordable mattress in case its daily cost, conditional on how long I expect to use it, is no larger than a fraction of the daily food costs I outlined in Section 1.
+Also, as long as basic hygienic measures are taken, bed frames are of no use.
+
+These are all my considerations about consumption and storage.
+And to answer the question I posted in the opening of this page: yes, I can fit everything I own into a backpack.
+As the protagonist in Houellebecq's novel, it is remarkable to me how little value most of the things I once had have on my life.
