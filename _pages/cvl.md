@@ -103,7 +103,7 @@ _Source: [Carrefour](https://www.carrefouruae.com/), August of 2026._
 
 This adds 3 AED to my daily costs.
 Together with lunch, I have hence a total cost of 5.23 AED per day on food.
-By occasionally eating out to meet the nutritional requirements not covered by Tables 1-4 (e.g., Vitamin C), I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
+By occasionally buying additional food to meet the nutritional requirements not covered by Tables 1-4 (e.g., Vitamin C), I may increase this budget to 7 AED per day, or AED 210 per month, which has been the cheapest diet I have recently tried.
 In addition, I emphasize that the approach I outlined can be applied to most places, as it is mostly based on commodities such as rice and lentils and oats, and is not restricted to Abu Dhabi.
 Correspondingly, it also completely bypasses the need for owning a knife, which---for being considered as a weapon by certain mass transportation companies---is an item of constrained portability.
 
@@ -213,7 +213,6 @@ As Labrouste, the protagonist of the referred Houellebecq's novel, I found it im
 The primary conclusion I draw from my investigation is that I can effectively reduce my cost of living to sustainably low values by restricting my diet to be mostly composed of commodities and having the willingness to move away from overpriced real estate markets.
 I reaffirm, however, that this is not meant as a normative prescription for a rational lifestyle under strictly financial considerations.
 Instead, it should be understood as a reasonable baseline for a decently enjoyable life that is also robust to plausibly adverse circumstances.
-In doing so, I aim to challenge the dominating narrative that mistakes Western convenience with biological necessitiy.
 
 In closing, the main objection one might raise is that my description severely underestimates long-term healthcare-related expenses.
 To this I can only say that the most incurable of states happens to be the global minimizer of the optimization problem I have so far considered.
