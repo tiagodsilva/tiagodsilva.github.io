@@ -65,7 +65,7 @@ _Source:_ [Amazon](https://www.amazon.ae/), August of 2026.
 When considering the expected lifespan of these items, the joint cost of AED 159 becomes negligible.
 Importantly, the appliances in Table 2 are _portable_: as I will argue in Section 4, this is essential for building a life that fits into a single backpack.
 With this in mind, the cookware above naturally raises the question: what should I cook?
-I noticed that a diet based on rice and lentils, which are jointly complete sources of carbohydrates, fibers, and the full set of aminoacids requred by the human body, and salt and garlic, which provide taste to an otherwise tasteless food, to be an appropriate choice.
+I noticed that a diet based on rice and lentils, which are jointly complete sources of carbohydrates, fibers, and the full set of aminoacids required by the human body, and salt and garlic, which provide taste to an otherwise tasteless food, to be an appropriate choice.
 The prices are listed in Table 3.
 
 _Table 3:_ Prices of a staple-based diet.
@@ -146,7 +146,7 @@ More importantly, universities are the natural habitat of students---which, as I
 Their presence is also suggestive of the existence of an informal rental market with less strict requirements for securing tenancy---e.g., bypassing income verification or a security deposity.
 
 This brings me back to my initial inquiry: to rent or to buy?
-I am concerned I will not provide a definitive instance in this page.
+I am concerned I will not provide a definitive stance in this page.
 Both buying and renting commonly invite financial scrutiny upon myself by adversarial third-parties---e.g., in case a bank loan is needed---demanding monthly income to be as large as two to three times the value of monthly installments.
 Should this demand be unmet, an informal lease agreement becomes the uniquely viable alternative.
 In Brazil, I found [WebQuarto](https://www.webquarto.com.br/) to have a decent offering of budget rooms.
