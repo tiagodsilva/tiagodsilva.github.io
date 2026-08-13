@@ -5,7 +5,7 @@ permalink: /misc/
 nav: true
 nav_order: 3
 
-description: Collections of random stuff that don't fit anywhere else.
+description: Collections of random stuff that doesn't fit anywhere else.
 ---
 
 This is a page for the unfit, the disgraced, and the unhopeful.
