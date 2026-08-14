@@ -33,7 +33,7 @@ The former includes calcium, zinc, iron, vitamins, such as B12, C, A, etc., whil
 Some of these, such as vitamin B12 and calcium, are intrinsically tied to animal-based food; I therefore discard a purely vegan diet from the outset.
 
 The first question I thus ask is: to cook or not to cook?
-Should I withdraw from cooking, I will avoid spending money in basic cooking appliances, such as a pan and a stove and a---please---non-stick safe spoon, which may require a relatively sizeable upfront investment.
+Should I withdraw from cooking, I will avoid spending money in basic cooking appliances, such as a pan and a stove, which may require a relatively sizeable upfront investment.
 Under these conditions, canned food is an economically viable alternative: as I write it, in Abu Dhabi, the following prices apply.
 
 _Table 1_: Prices for canned food.
@@ -50,19 +50,19 @@ I found that half a can of fava beans mixed with a can of sardine is enough for 
 By consuming this once a day, I commit myself to a monthly cost of AED 142.5.
 Besides being environmentally wasteful---resulting in hundreds of used cans per year, many of which may not be recycled---such a diet falls short of being dollar-efficient, inflation-robust, or healthy.
 Instead, I claim buying basic cookware is required for long-horizon minimization of food-related costs.
-As of today, the price of a non-stick pan, a non-stick safe spoon, and an eletrical stove are as follows.
+As of today, the price of a pan, a bamboo spoon, and an eletrical stove are as follows.
 
 _Table 2:_ Prices of basic cookware.
 
-| Item                 | Price   |
-| -------------------- | ------- |
-| Non-stick Pan        | AED 40  |
-| Non-stick Safe Spoon | AED 4   |
-| Cooktop              | AED 115 |
+| Item                       | Price   |
+| -------------------------- | ------- |
+| Triply Stainless Steel Pan | AED 80  |
+| Bamboo Spoon               | AED 4   |
+| Cooktop                    | AED 115 |
 
 _Source:_ [Amazon](https://www.amazon.ae/), August of 2026.
 
-When considering the expected lifespan of these items, the joint cost of AED 159 becomes negligible.
+When considering the expected lifespan of these items (commonly around 15 years), the joint cost of AED 199 becomes negligible.
 Importantly, the appliances in Table 2 are _portable_: as I will argue in Section 4, this is essential for building a life that fits into a single backpack.
 With this in mind, the cookware above naturally raises the question: what should I cook?
 I noticed that a diet based on rice and lentils, which are jointly complete sources of carbohydrates, fibers, and the full set of aminoacids required by the human body, and salt and garlic, which provide taste to an otherwise tasteless food, to be an appropriate choice.
