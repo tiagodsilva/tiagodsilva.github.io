@@ -56,7 +56,7 @@ _Table 2:_ Prices of basic cookware.
 
 | Item                       | Price   |
 | -------------------------- | ------- |
-| Triply Stainless Steel Pan | AED 80  |
+| Triply Stainless Steel Pan | AED 60  |
 | Bamboo Spoon               | AED 4   |
 | Cooktop                    | AED 115 |
 
