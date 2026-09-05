@@ -32,7 +32,7 @@ tdsh97\@gmail.com |
 #chiline()
 
 #[*PhD in Applied Mathematics*] #h(1fr) 2024 \
-School of Applied Mathematics, Getulio Vargas Foundation, Brazil. Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. \
+School of Applied Mathematics, Getulio Vargas Foundation, Brazil. Advisor: #link("https://weakly-informative.github.io/")[Prof. Diego Mesquita]. Graduated in one year. \
 // - Thesis title: Streaming, Distributed, and Asynchronous Amortized Inference.
 // - Fast-tracked graduation due to recognized academic excellence and scientific productivity.
 
