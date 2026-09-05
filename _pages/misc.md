@@ -3,7 +3,7 @@ layout: page
 title: misc
 permalink: /misc/
 nav: true
-nav_order: 3
+nav_order: 2
 
 description: Collections of random stuff that doesn't fit anywhere else.
 ---
