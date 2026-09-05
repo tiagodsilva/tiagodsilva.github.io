@@ -61,7 +61,7 @@ School of Applied Mathematics, Getulio Vargas Foundation, Brazil. GPA: 9.9/10.0.
 
 *Rei do Pitaco* (fastest-growing sports betting startup in Brazil) #h(1fr) _Santa Catarina, Brazil_
 - Data Scientist \& Engineer. #h(1fr) 2025/01 -- 2025/11
-  - I spearheaded the development of a bet builder, allowing customers to create customized bets (approximately 50% of the company's revenue, up to 1.2 million requests per day). I also built near-real-time dbt and Airflow pipelines.
+  - I spearheaded the development of a bet builder, which enables customers to create customized bets. This served up to 1.2 million daily requests and accounted for \~50% of monthly revenue. I also built near-real-time dbt and Airflow pipelines.
 // I designed, implemented, and maintained both the algorithm and the web API responsible for the real-time odds calculations.
 // - Handling up to 1.2 million requests per day, the service accounted for 50% of the company's sportbook revenue.
 // - Developed ETL pipelines with dbt and Airflow for near-real-time data processing and service monitoring.
