@@ -28,4 +28,4 @@ In between my PhD and my current role, I worked on pricing and risk management p
 In the Summer of 2024, I was a visiting researcher in the Probabilistic Machine Learning (PML) group at [Aalto University](https://research.cs.aalto.fi/pml/) under [Prof. Vikas Garg](https://www.mit.edu/~vgarg/) and [Prof. Sami Kaski](https://kaski-lab.com/).
 There, I developed (efficient) assessment techniques and (PAC-Bayesian) statistical guarantees for GFlowNets.-->
 
-Research-wise, I am broadly interested in approximate statistical inference and (Bayesian) learning theory.
+<!--Research-wise, I am broadly interested in approximate statistical inference and (Bayesian) learning theory.-->
