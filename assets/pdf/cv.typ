@@ -84,15 +84,15 @@ School of Applied Mathematics, Getulio Vargas Foundation, Brazil. GPA: 9.9/10.0.
 == Selected Honors & Awards
 #chiline()
 
-*Top-ranked PhD thesis*, CAPES (Math & Statistics), SBC (Computer Science), BRACIS (AI). #h(1fr) 2025-2026
+*Top-ranked PhD thesis* as per #link("https://www.gov.br/capes/pt-br")[CAPES] (Math & Statistics) and  #link("https://www.sbc.org.br/")[SBC] (for CS in general and AI in particular). #h(1fr) 2025-2026
 
-*Award for Academic Excellence*, Brazilian Society of Applied and Computational Mathematics. #h(1fr) 2023
+*Award for Academic Excellence*, #link("https://emap.fgv.br/")[FGV EMAp] and #link("https://www.sbmac.org.br/")[SBMAC]. #h(1fr) 2023
 
 // *First place*, School of Applied Mathematics entrance exam. #h(1fr) 2020
 
 // *William Glenn Whitley Prize* for achieving the highest score on the State Mathematical Olympiad. #h(1fr) 2019
 
-*Top score in the country*, Brazilian Mathematical Olympiad of Public Schools. #h(1fr) 2018-2019
+*Highest score in the country*, Brazilian Mathematical Olympiad of Public Schools. #h(1fr) 2018-2019
 
 // *Gold medal*, Brazilian Chemistry Olympiad. #h(1fr) 2018
 
