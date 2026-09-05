@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 I have an academic [CV](./assets/pdf/long_cv.pdf) and a short [CV](./assets/pdf/cv.pdf).
 
-I am broadly interested in doing Bayesian inference with neural networks. 
+I am broadly interested in doing Bayesian inference with neural networks.
 
 <!--
 I am a researcher working in [Salem Lahlou](https://lahlou.org/)'s group at [MBZUAI](http://mbzuai.ac.ae/). Prior to this, I obtained my PhD degree in Applied Mathematics from the [School of Applied Mathematics](https://emap.fgv.br/en) of the [Getulio Vargas Foundation](https://fgv.br/en) (FGV) under the supervision of [Diego Mesquita](https://weakly-informative.github.io/). I also hold a BSc and MSc degrees in Data Science from the same institution.
