@@ -62,7 +62,7 @@ _Table 2:_ Prices of basic cookware.
 
 _Source:_ [Amazon](https://www.amazon.ae/), August of 2026.
 
-When considering the expected lifespan of these items (commonly around 15 years), the joint cost of AED 199 becomes negligible.
+When considering the expected lifespan of these items (commonly around 15 years), the joint cost of AED 189 becomes negligible.
 Importantly, the appliances in Table 2 are _portable_: as I will argue in Section 4, this is essential for building a life that fits into a single backpack.
 With this in mind, the cookware above naturally raises the question: what should I cook?
 I noticed that a diet based on rice and lentils, which are jointly complete sources of carbohydrates, fibers, and the full set of aminoacids required by the human body, and salt and garlic, which provide taste to an otherwise tasteless food, to be an appropriate choice.
