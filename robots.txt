@@ -2,6 +2,8 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow:
+Disallow: /assets/pdf/rs.pdf
+Disallow: /assets/pdf/research_statement.pdf
+
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
