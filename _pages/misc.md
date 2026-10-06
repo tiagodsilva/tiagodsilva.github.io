@@ -14,4 +14,4 @@ You may consult my [Curriculum Mortis](/companies-8v2-m9x-private-44/) if you ar
 
 You may also read about my journey towards the [cheapest viable lifestyle](/cvl/).
 
-You may otherwise check out my [doctoral thesis](/assets/pdf/phd_thesis.pdf), or an outdated [photo of me](./assets/img/me.jpg).
+You may otherwise check out my [doctoral thesis](/assets/pdf/phd_thesis.pdf), or an outdated [photo of me](/assets/img/me.jpg).
