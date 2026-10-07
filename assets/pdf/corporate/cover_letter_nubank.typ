@@ -18,7 +18,7 @@
   [
     #text(style: "italic", fill: gray.darken(20%))[Cover Letter for:] \
     #target_position
-  ]
+  ],
 )
 
 // A subtle horizontal line to separate the header from the body
