@@ -14,4 +14,4 @@ The nameless narrator of White Nights, by Dostoevsky, frequently emphasizes his 
 Fagin, in Dickens's Oliver Twist, ensured Oliver's loyalty by preparing his mind, "by solitude and gloom, to prefer any society to the companionship of his own sad thoughts".
 Contemporaneously, the protagonists of Houellebecq's novels---from Whatever to Serotonin---progressively deprive themselves from the commonalities of social life.
 
-Despite their remarkable dissimilarities, these artistic creations---both fiction and non-fiction---are built upon a shared theme: characters that, often willingly, have been exposed to varying degrees and manifestations of social isolation.
+Despite their remarkable dissimilarities, these artistic creations---both fiction and non-fiction---touch upon a shared theme: characters that, often willingly, have been exposed to varying degrees and manifestations of social isolation.
