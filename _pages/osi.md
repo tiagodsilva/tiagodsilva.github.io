@@ -7,7 +7,7 @@ nav: false
 ---
 
 Thoreau, in Walden, describes an ambitious experiment: in his late 20s, he temporarily moves away from his home to live by himself, building his own house and producing (most of) his own food.
-Leto Atreides, in Dune, abdicates his humanity and patiently waits, for thousands of years, for his inevitable fragmentation into uncountably many semi-conscious beings.
+Leto Atreides, in Dune, abdicates his humanity and patiently waits, for thousands of years, for his inevitable fragmentation into uncountably many semi-conscious creatures.
 His father, Paul Atreides, after being blinded and stripped off his supernatural foresight, walks aimlessly and alone in the desert, as per Fremen tradition.
 Luke Skywalker, in Star Wars, becomes a recluse Jedi in a forgotten island.
 The nameless narrator of White Nights, by Dostoevsky, frequently emphasizes his feeling of chronic loneliness.
