@@ -11,7 +11,7 @@ Leto Atreides, in Dune, abdicates his humanity and patiently waits, for thousand
 His father, Paul Atreides, after being blinded and stripped off his supernatural foresight, walks aimlessly and alone in the desert, as per Fremen tradition.
 Luke Skywalker, in Star Wars, becomes a recluse Jedi in a forgotten island.
 The nameless narrator of White Nights, by Dostoevsky, frequently emphasizes his feeling of chronic loneliness.
-Fagin, in Dickens's Oliver Twist, manufactured the Oliver's loyalty by preparing his mind, "by solitude and gloom, to prefer any society to the companionship of his own sad thoughts".
+Fagin, in Dickens's Oliver Twist, ensured Oliver's loyalty by preparing his mind, "by solitude and gloom, to prefer any society to the companionship of his own sad thoughts".
 Contemporaneously, the protagonists of Houellebecq's novels---from Whatever to Serotonin---progressively deprive themselves from the commonalities of social life.
 
 Despite their remarkable dissimilarities, these artistic creations---both fiction and non-fiction---are built upon a shared theme: characters that, often willingly, have been exposed to varying degrees and manifestations of social isolation.
