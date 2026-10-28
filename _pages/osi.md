@@ -10,7 +10,7 @@ Thoreau, in Walden, describes an ambitious experiment: in his late 20s, he tempo
 Leto Atreides, in Dune, abdicates his humanity and patiently waits, for thousands of years, for his inevitable fragmentation into uncountably many semi-conscious beings.
 His father, Paul Atreides, after being blinded and stripped off his supernatural foresight, walks aimlessly and alone in the desert, as per Fremen tradition.
 Luke Skywalker, in Star Wars, becomes a recluse Jedi in a forgotten island.
-The nameless protagonist of White Nights, by Dostoevsky, frequently emphasizes his feeling of chronic loneliness.
+The nameless narrator of White Nights, by Dostoevsky, frequently emphasizes his feeling of chronic loneliness.
 Fagin, in Dickens's Oliver Twist, manufactured the Oliver's loyalty by preparing his mind, "by solitude and gloom, to prefer any society to the companionship of his own sad thoughts".
 Contemporaneously, the protagonists of Houellebecq's novels---from Whatever to Serotonin---progressively deprive themselves from the commonalities of social life.
 
