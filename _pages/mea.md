@@ -25,7 +25,7 @@ _Everyone declares to be solving the world's most pressing issues._
 The academic road not only forces you to play a losing game, but also puts you in constant contact with people that will constantly emphasize their own greatness and the immense relevance of their job for society to justify---often to themselves---their primarily tax-payer funded projects.
 From grounded but vague narratives, such as solving AI alignment or revolutionalizing the health or judicial sectors through technology, to bizarrely absurd declarations, such as meaningfully advancing the search for the cure to all diseases or the solution to the climate crisis, your colleagues and superiors will proudly state (primarily in prose, but also frequently in person) about their unmatched ambitions, which are second-to-none.
 The main reason for this is that, while academia as an institution grew significantly since the 1940s across the world, resources for actually funding academic research have not followed the same trend.
-An increasingly large pool of faculty now compete for a decreasing amount of publicly available funds, a setting that incentivizes excessive self-promotion and actively punishes honesty.
+An increasingly large pool of faculty now competes for a decreasing amount of publicly available funds, a setting that incentivizes excessive self-promotion and actively punishes honesty.
 
 _Overqualified on things that don't matter; else, underqualified._
 A common misconception I see online and among my non-academic acquaintances is that a PhD results in some kind of _overqualification_ that imposes hardships in finding a job thereafter.
