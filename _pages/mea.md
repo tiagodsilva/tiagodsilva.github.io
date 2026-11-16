@@ -14,12 +14,12 @@ I will hence give my largely pessimistic review of a (very) early academic caree
 _Your victories are shared; your defeats are not._
 The relationship between an advisor and a PhD student is highly asymmetric: your advisor holds no skin in your game.
 If you lose---if your papers are rejected, or you struggle to find an internship---, that it is entirely your problem.
-If you don't lose---e.g., your works are well-regarded by the community, and your thesis is appreciated by your institution---, your advisor's role in your training will be greatly praised, and you might even play a key role in accelerating their path to tenure (should they still be in that path)!  
-If they lose---e.g., if their funding stops, or the project they assigned to you was unfruitful---, you also lose.
+If you don't lose---e.g., your works are well-regarded by the community, and your thesis is appreciated by your institution---, your advisor's role in your supposed training will be greatly praised, and you might even play a key role in accelerating their path to tenure (should they still be in that path)!  
+If they lose---e.g., if their funding stops, or the project they assigned to you was unfruitful to start with---, you also lose.
 That is to say: you share your victories, but mourn alone your defeats.  
 In fact, after graduation, you can only hope that your advisor will assist you in your job search, and that they won't block you from requesting recommendation letters from your shared senior coauthors.
 If they don't---truth be told---nobody will notice if your name is removed from the alumni section of their CVs.
-As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function is the average payoff function of his top-$K$ best students, for a (very) small $K$; unless you are a member of such select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
+As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function is the average payoff function of their top-$K$ best students, for a (very) small $K$; unless you are a member of such select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
 
 _Everyone declares to be solving the world's most pressing issues._
 The academic road not only forces you to play a losing game, but also puts you in constant contact with people that will constantly emphasize their own greatness and the immense relevance of their job for society to justify---often to themselves---their primarily tax-payer funded projects.
