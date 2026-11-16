@@ -27,7 +27,7 @@ From grounded but vague narratives, such as solving AI alignment or revolutional
 The main reason for this is that, while academia as an institution grew significantly since the 1940s across the world, resources for actually funding academic research have not followed the same trend.
 An increasingly large pool of faculty now competes for a decreasing amount of publicly available funds, a setting that incentivizes excessive self-promotion and actively punishes honesty.
 
-_Overqualified on things that don't matter; else, underqualified._
+_Overqualified on things that don't matter, and underqualified otherwise._
 A common misconception I see online and among my non-academic acquaintances is that a PhD results in some kind of _overqualification_ that imposes hardships in finding a job thereafter.
 I think that quite the opposite is true: a PhD leads to _overspecialization_ and _underqualification_ to most jobs.
 A PhD in Computer Science is no better software engineer than a seasoned professional; and a PhD in Applied Mathematics is not more versed in data science than a fresh college graduate, even if only the former knows about Girsanov's theorem.
