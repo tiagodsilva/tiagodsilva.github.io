@@ -41,4 +41,4 @@ The leading venue in AI, for instance, published nearly ten thousands manuscript
 
 In conclusion, since abruptly defending my PhD thesis, when I relied upon the rare kindness of few but valuable friends---none of which were in academia---to remain away from unemployment in the months that followed my graduation, I have never felt more dreadful about the future.
 Although my experiences are certainly non-unique and much of what I described is fairly obvious, I write this to communicate to the interested reader---if any---about the survivorship-biased perception regarding academic life suggested by their professors.
-The pursuit of an academic in my early 20s was a high-risk bet with limited upside and large probability of ruin.
+The pursuit of an academic in my early 20s was a high-risk bet with limited upside and high probability of ruin.
