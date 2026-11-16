@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Experience on Academia 
+title: My Experience in Academia
 
 layout: distill
 permalink: /mea/
