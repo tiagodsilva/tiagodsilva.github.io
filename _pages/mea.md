@@ -37,7 +37,7 @@ _Modern LLMs have fucked everything up._
 And now, with LLMs, everyone can be an academic!
 The cost of writing a plausible-sounding manuscript, a task that once required Herculean effort and intensive training, has effectively vanished.
 Those who have dedicated their lives to understanding and knowledge generation<d-footnote>Not my case, obviously.</d-footnote> now live in a world where each and everyone can, in the blink of an eye, achieve an amorphous version of the latter without regard for the former.
-The leading venue in AI, for instance, published nearly ten thousands manuscripts only in 2026, and the scientific debate has notably shifted from the identification and solution of problems to grown and educated men squabbling on social media about who has the largest (number of published documents).
+The leading venue in AI, for instance, published nearly ten thousands manuscripts only in 2026, and the scientific debate has notably shifted from the identification and solution of problems to grown and educated men squabbling on social media about who has the biggest number of published documents.
 
 In conclusion, since abruptly defending my PhD thesis, when I relied upon the rare kindness of few but valuable friends---none of which were in academia---to remain away from unemployment in the months that followed my graduation, I have never felt more dreadful about the future.
 Although my experiences are certainly non-unique and much of what I described is fairly obvious, I write this to communicate to the interested reader---if any---about the survivorship-biased perception regarding academic life suggested by their professors.
