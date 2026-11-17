@@ -12,13 +12,13 @@ In fact, I believe I have been on this path for just enough time to see all its 
 I will hence give my largely pessimistic review of a (very) early academic career; better resources by experienced and actually successful researchers may be found elsewhere.
 
 _Your victories are shared; your defeats are not._
-The relationship between an advisor and a PhD student is highly asymmetric: your advisor holds no skin in your game.
-If you lose---if your papers are rejected, or you struggle to find an internship---, that it is entirely your problem.
-If you don't lose---e.g., your works are well-regarded by the community, and your thesis is appreciated by your institution---, your advisor's role in your supposed training will be greatly praised, and you might even play a key role in accelerating their path to tenure (should they still be in that path)!  
-If they lose---e.g., if their funding stops, or the project they assigned to you was unfruitful to start with---, you also lose.
+The relationship between an advisor and a PhD student is highly asymmetric: your advisor holds no skin in your game, but you hold yours in theirs.
+If you lose (e.g., if your papers are rejected, or you struggle to find an internship), that it is entirely your problem.
+If you don't lose (e.g., your works are well-regarded by the community, and your thesis is appreciated by your institution), your advisor's role in your supposed training will be greatly praised, and you might even play a key role in accelerating their path to tenure---should they be in that path themselves!  
+If they lose (e.g., if their funding stops, or the project they assigned to you was unfruitful to start with), you also lose.
 That is to say: you share your victories, but mourn alone your defeats.  
 In fact, after graduation, you can only hope that your advisor will assist you in your job search, and that they won't block you from requesting recommendation letters from your shared senior coauthors.
-If they don't---truth be told---nobody will notice if your name is removed from the alumni section of their CVs.
+If they refuse to help---truth be told---nobody will notice if your name is removed from the alumni section of their CVs.
 As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function is the average payoff function of their top-$K$ best students, for a (very) small $K$; unless you are a member of such select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
 
 _Everyone declares to be solving the world's most pressing issues._
