@@ -18,7 +18,7 @@ If you don't lose (e.g., your works are well-regarded by the community, and your
 If they lose (e.g., if their funding stops, or the project they assigned to you was unfruitful to start with), you also lose.
 That is to say: you share your victories, but mourn alone your defeats.  
 In fact, after graduation, you can only hope that your advisor will assist you in your job search, and that they won't block you from requesting recommendation letters from your shared senior coauthors.
-If they refuse to help---truth be told---nobody will notice if your name is removed from the alumni section of their CVs.
+Truth be told that, if they either refuse to help or---more likely---ignore your requests, nobody will notice if your name is removed from the alumni section of their CVs.
 As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function is the average payoff function of their top-$K$ best students, for a (very) small $K$; unless you are a member of such select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
 
 _Everyone declares to be solving the world's most pressing issues._
