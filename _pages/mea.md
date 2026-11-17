@@ -20,7 +20,7 @@ That is to say: you share your victories, but mourn alone your defeats.
 
 In fact, after graduation, you can only hope that your advisor will assist you in your job search, and that they won't block you from asking recommendation letters from your shared senior coauthors.
 Truth be told that, if they either refuse to help or---more likely---ignore your requests, nobody will notice if your name is removed from the alumni section of their CVs.
-As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function depends only on the payoff functions of their top-$K$ best students, for a (very) small $K$; unless you are a member of such select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
+As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function depends only on the payoff functions of their top-$K$ best students, for a (very) small $K$; unless you are a member of such a select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
 
 _Everyone declares to be solving the world's most pressing issues._
 The academic road not only forces you to play a losing game, but also puts you in constant contact with people that will constantly emphasize their own greatness and the immense relevance of their job for society to justify---often to themselves---their primarily tax-payer funded projects.
