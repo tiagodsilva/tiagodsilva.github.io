@@ -8,7 +8,7 @@ nav: false
 ---
 
 I have not spent nearly enough time to judge academia unbiasedly: my unconventional trajectory is exposed in my [CV](./assets/pdf/cv.pdf).
-In fact, I believe I have been on this path for just enough time to see all its failings---and none of its virtues.
+In fact, I believe I have been on this path for just enough time to see all of its failings---and none of its virtues.
 I will hence give my largely pessimistic review of a (very) early academic career; better resources by experienced and actually successful researchers may be found elsewhere.
 
 _Your victories are shared; your defeats are not._
@@ -31,7 +31,7 @@ An increasingly large pool of faculty now competes for a decreasing amount of pu
 _Overqualified on things that don't matter, and underqualified otherwise._
 A common misconception I see online and among my non-academic acquaintances is that a PhD results in some kind of _overqualification_ that imposes hardships in finding a job thereafter.
 I think that quite the opposite is true: a PhD leads to _overspecialization_ and _underqualification_ to most jobs.
-A PhD in Computer Science is no better software engineer than a seasoned professional; and a PhD in Applied Mathematics is not more versed in data science than a fresh college graduate, even if only the former knows about Girsanov's theorem.
+A PhD in Computer Science is no better software engineer than a seasoned professional; and a PhD in Applied Mathematics is no more versed in data science than a fresh college graduate, even if only the former knows about Banach's and Girsanov's theorems.
 Indeed, it is a wildely acknowledged fact that a PhD is an underqualification even for a professorship; Peter Feibelman famously wrote an [entire book](https://www.goodreads.com/book/show/587478) about this, and many PhDs continue as postdocs for a few years after graduation before landing their first (likely) permanent position---or giving up altogether.
 
 _Modern LLMs have fucked everything up._
