@@ -23,12 +23,12 @@ Truth be told that, if they either refuse to help or---more likely---ignore your
 As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function depends only on the payoff functions of their top-$K$ best students, for a (very) small $K$; unless you are a member of such a select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
 
 _Everyone declares to be solving the world's most pressing issues._
-The academic road not only forces you to play a losing game, but also puts you in constant contact with people that will constantly emphasize their own greatness and the immense relevance of their job for society to justify---often to themselves---their primarily tax-payer funded projects.
-From grounded but vague narratives, such as solving AI alignment or revolutionalizing the health or judicial sectors through technology, to bizarrely absurd declarations, such as meaningfully advancing the search for the cure to all diseases or the solution to the climate crisis, your colleagues and superiors will proudly brag (primarily in prose, but also frequently in person) about their unmatched ambitions.
+The academic road not only forces you to play a losing game, but also puts you in constant contact with people that will repeatedly emphasize their own greatness and the immense relevance of their job for society to justify---often to themselves---their primarily tax-payer funded projects.
+From grounded but vague narratives, revolutionalizing the health or judicial sectors through technology, to bizarrely absurd declarations, such as meaningfully advancing the search for the cure to all diseases or the solution to the climate crisis, your colleagues and superiors will proudly brag (primarily in prose, but also frequently in person) about their unmatched ambitions.
 The main reason for this is that, while academia as an institution grew significantly since the 1940s across the world, resources for actually funding academic research have not followed the same trend.
 An increasingly large pool of faculty now competes for a decreasing amount of publicly available funds, a setting that incentivizes excessive self-promotion and actively punishes honesty.
 
-_Overqualified on things that don't matter, and underqualified otherwise._
+_Overqualified for things that don't matter, and underqualified otherwise._
 A common misconception I see online and among my non-academic acquaintances is that a PhD results in some kind of _overqualification_ that imposes hardships in finding a job thereafter.
 I think that quite the opposite is true: a PhD leads to _overspecialization_ and _underqualification_ to most jobs.
 A PhD in Computer Science is no better software engineer than a seasoned professional; and a PhD in Applied Mathematics is no more versed in data science than a fresh college graduate, even if only the former knows about Banach's and Girsanov's theorems.
