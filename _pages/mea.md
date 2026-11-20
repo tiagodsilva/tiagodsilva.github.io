@@ -24,7 +24,7 @@ As for the mathematically-inclined reader, this relationship may be better grasp
 
 _Everyone declares to be solving the world's most pressing issues._
 The academic road not only forces you to play a losing game, but also puts you in constant contact with people that will repeatedly emphasize their own greatness and the immense relevance of their job for society to justify---often to themselves---their primarily tax-payer funded projects.
-From grounded but vague narratives, revolutionalizing the health or judicial sectors through technology, to bizarrely absurd declarations, such as meaningfully advancing the search for the cure to all diseases or the solution to the climate crisis, your colleagues and superiors will proudly brag (primarily in prose, but also frequently in person) about their unmatched ambitions.
+From grounded but vague narratives, such as revolutionalizing the health or judicial sectors through technology, to bizarrely absurd declarations, such as meaningfully advancing the search for the cure to all diseases or the solution to the climate crisis, your colleagues and superiors will proudly brag (primarily in prose, but also frequently in person) about their unmatched ambitions.
 The main reason for this is that, while academia as an institution grew significantly since the 1940s across the world, resources for actually funding academic research have not followed the same trend.
 An increasingly large pool of faculty now competes for a decreasing amount of publicly available funds, a setting that incentivizes excessive self-promotion and actively punishes honesty.
 
