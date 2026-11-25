@@ -13,12 +13,12 @@ I will hence give my largely pessimistic review of a (very) early academic caree
 
 _Your victories are shared; your defeats are not._
 The relationship between an advisor and a PhD student is highly asymmetric: your advisor holds no skin in your game, but you hold yours in theirs.
-If you lose (e.g., if your papers are rejected, or you struggle to find an internship), that it is entirely your problem.
+If you lose (e.g., your papers are rejected, or you struggle to find an internship), that it is entirely your problem.
 If you don't lose (e.g., your works are well-regarded by the community, and your thesis is appreciated by your institution), your advisor's role in your supposed training will be greatly praised, and you might even play a key part in accelerating their path to tenure---should they be in that path themselves!
-If they lose (e.g., if their funding stops, or the project they assigned to you was unfruitful to start with), you also lose.
+If they lose (e.g., their funding stops, or the project they assigned to you was unfruitful to start with), you also lose.
 That is to say: you share your victories, but mourn alone your defeats.
 
-In fact, after graduation, you can only hope that your advisor will assist you in your job search, and that they won't block you from asking recommendation letters from your shared senior coauthors.
+Indeed, after graduation, you can only hope that your advisor will assist you in your job search, and that they won't block you from asking recommendation letters from your shared senior coauthors.
 Truth be told that, if they either refuse to help or---more likely---ignore your requests, nobody will notice if your name is removed from the alumni section of their CVs.
 As for the mathematically-inclined reader, this relationship may be better grasped through the following model: an advisor's payoff function depends only on the payoff functions of their top-$K$ best students, for a (very) small $K$; unless you are a member of such a select group, there is little-to-no reason to believe that your advisor will act in the best of your interest.
 
